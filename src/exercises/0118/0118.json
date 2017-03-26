@@ -1,0 +1,26 @@
+{
+    "id": "0118",
+    "name": "romanian-dead-lift",
+    "title": "Romanian Dead Lift",
+    "alias": "",
+    "primer": "This is an exercise similar to the regular dead lift and strengthens the hamstring, calves, quadriceps and gluts.",
+    "type": "isolation",
+    "primary": "hamstrings",
+    "secondary": [
+        "calves",
+        "quadriceps",
+        "gluts"
+    ],
+    "equipment": [
+        "barbell"
+    ],
+    "steps": [
+        "Place a barbell in front of your feet on the ground.",
+        "Grasp the barbell with a grip a bit wider than shoulder width apart.",
+        "Bend your knees slightly, keeping your hips and back straight.",
+        "Lift the bar straight up concentrating on using your hips as you stand.",
+        "Stand with the bar resting against your thighs.",
+        "Lower the bar to the floor with a slight bend in your knees flexing your hips back for stability."
+    ],
+    "tips": ""
+}
