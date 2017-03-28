@@ -15,6 +15,11 @@ json2md.converters.frontmatter = function (data) {
         '``` \n'
 }
 
+json2md.converters.svg = function (data) {
+    var base = __dirname + '/../dist/';
+    return (_.map(data.svg, function (img) { return fs.readFileSync(base + img); } )).join('\n')
+}
+
 json2md.converters.linebreak = function () {
     return ``;
 }
@@ -40,7 +45,7 @@ function getContent(folder, type) {
 
 module.exports = util = {
 
-    toMarkdown: function (data, files) {
+    toMarkdown: function (data) {
         var content = [];
         content.push(
             { h1: data.title },
@@ -54,7 +59,8 @@ module.exports = util = {
             { linebreak: '' },
             { h2: 'Images' },
             { linebreak: '' },
-            { img: _.map(data.svg, function (img) { return { source: '../' + img } }) }
+            { svg: data }
+            //{ img: _.map(data.svg, function (img) { return { source: '../' + img } }) }
         );
         return json2md(content);
     },

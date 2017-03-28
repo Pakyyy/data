@@ -1,7 +1,15 @@
 var _ = require('lodash');
 var util = require('./util');
 var fs = require('fs');
+var path = require('path');
 var fsextra = require('fs-extra');
+var SVGO = require('svgo');
+
+// default config
+var svgo = new SVGO();
+
+// globals
+var attr = 'name';
 
 // paths
 var base = __dirname + '/../dist';
@@ -20,6 +28,7 @@ if (!fs.existsSync(md)) fs.mkdirSync(md);
 var collection = [];
 _.each(util.getDirectories(__dirname + '/../src/exercises'), function (dir) {
 
+    // get
     var data = _.extend(util.getData(dir.path + '/' + dir.name + '.json'), { svg: [], png: [] });
 
     // process
@@ -27,17 +36,28 @@ _.each(util.getDirectories(__dirname + '/../src/exercises'), function (dir) {
         .filter(function (file) { return /(png|svg)/.test(file.extension) })
         .sortBy(function (file) { return file.extension + file.name; })
         .each(function (file) {
-            // copy
-            util.copy(file.path, file.extension === 'png' ? png : svg);
+
             // add to data
             var relative = file.extension + '/' + file.name;
-            if (file.extension === 'png') data.png.push(relative);
-            if (file.extension === 'svg') data.svg.push(relative);
+
+            // simple copy png
+            if (file.extension === 'png') {
+                util.copy(file.path, file.extension === 'png' ? png : svg);
+                data.png.push(relative);
+            }
+            // optimize svg
+            if (file.extension === 'svg') {
+                var svgcontent = fs.readFileSync(file.path, 'utf8');
+                svgo.optimize(svgcontent, function(result) {
+                    fs.writeFileSync(path.join(svg, file.name), result.data);
+                    data.svg.push(relative);
+                });
+            }
         })
         .value();
 
     collection.push(data);
-    fs.writeFileSync(md + '/' + dir.name + '.md', util.toMarkdown(data));
+    fs.writeFileSync(md + '/' + data[attr] + '.md', util.toMarkdown(data));
 });
 
 // write collection to file
@@ -49,7 +69,7 @@ function getLinks() {
     return _.chain(collection)
         .sortBy(function (data) { return data.title; })
         .map(function (data) {
-            var path = `md/${data.id}.md`;
+            var path = `md/${data[attr]}.md`;
             return `- [${data.title}](${path})`;
         })
         .join('\n')

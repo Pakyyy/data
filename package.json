@@ -24,7 +24,8 @@
   "devDependencies": {
     "fs-extra": "^2.1.2",
     "json2md": "^1.5.6",
-    "lodash": "4.15"
+    "lodash": "4.15",
+    "svgo": "^0.7.2"
   },
   "engines": {
     "node": ">=4.4.0"
