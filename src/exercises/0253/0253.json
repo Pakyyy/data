@@ -9,7 +9,9 @@
     "secondary": [
         "forearm"
     ],
-    "equipment": "",
+    "equipment": [
+        "machine"
+    ],
     "steps": [
         "Adjust the seat of the machine so your elbows are correctly aligned with the rotation axis.",
         "Press your arms against the pads and keep them stationary throughout the exercise.",

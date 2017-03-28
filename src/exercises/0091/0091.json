@@ -10,7 +10,7 @@
         "neck",
         "biceps"
     ],
-    "equipment": "",
+    "equipment": ["body", "pull-up bar"],
     "steps": [
         "Grasp a chin up bar with a slightly wider than shoulder width grip.",
         "Keeping your body straight pull yourself up and to one side of the bar.",

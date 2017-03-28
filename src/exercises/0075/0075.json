@@ -7,7 +7,7 @@
     "type": "",
     "primary": "",
     "secondary": "",
-    "equipment": "",
+    "equipment": ["body", "bench"],
     "steps": [
         "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
         "Place your feet on a bench at least 18” off the ground.",
