@@ -5,10 +5,9 @@
     "alias": "",
     "primer": "This is an exercise for lateral deltoid, shoulder and forearm strengthening.",
     "type": "isolation",
-    "primary": "lateral deltoid",
+    "primary": "shoulders",
     "secondary": [
-        "forearm",
-        "shoulders"
+        "forearm"
     ],
     "equipment": [
         "dumbbells"

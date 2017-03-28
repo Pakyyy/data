@@ -5,7 +5,7 @@
     "alias": "",
     "primer": "This is an exercise similar to the regular Chin Up but focuses more on shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders, lats",
+    "primary": ["shoulders", "lats"],
     "secondary": [
         "back",
         "core"

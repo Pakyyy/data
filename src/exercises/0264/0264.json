@@ -5,7 +5,7 @@
     "alias": "",
     "primer": "This is an advanced exercise that combines a lateral lunge with a bicep curl.",
     "type": "compound, isolation",
-    "primary": "quadriceps, biceps",
+    "primary": ["quadriceps", "biceps"],
     "secondary": [
         "forearm",
         "hamstrings",

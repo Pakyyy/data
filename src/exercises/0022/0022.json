@@ -3,13 +3,12 @@
     "name": "smith-machine-rear-deltoid-row",
     "title": "Smith Machine Rear Deltoid Row",
     "alias": "",
-    "primer": "",
+    "primer": "A exercise for the rear deltoid",
     "type": "isolation",
-    "primary": "rear deltoid",
+    "primary": "shoulders",
     "secondary": [
         "back",
-        "biceps",
-        "shoulders"
+        "biceps"
     ],
     "equipment": [
         "smith machine"

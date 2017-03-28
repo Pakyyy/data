@@ -5,9 +5,8 @@
     "alias": "",
     "primer": "This is an exercise for deltoid, biceps and trapezius strengthening.",
     "type": "isolation",
-    "primary": "posterior deltoid",
+    "primary": "shoulders",
     "secondary": [
-        "lateral deltoid",
         "biceps",
         "trapezius"
     ],
