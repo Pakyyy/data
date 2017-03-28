@@ -6,7 +6,7 @@ id: 0075
 type:  
 primary:  
 secondary: none 
-equipment:  
+equipment: body, bench 
 ``` 
 
 ## Steps

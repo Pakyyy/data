@@ -5,7 +5,7 @@
 id: 0143 
 type: compound 
 primary: quadriceps 
-secondary: calves,hamstring 
+secondary: calves,hamstrings 
 equipment: machine 
 ``` 
 

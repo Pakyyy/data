@@ -4,7 +4,7 @@
 ``` 
 id: 0021 
 type: isolation 
-primary: lower abdominals 
+primary: abdominals 
 secondary: none 
 equipment: body 
 ``` 

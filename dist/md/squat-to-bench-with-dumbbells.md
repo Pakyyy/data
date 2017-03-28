@@ -5,7 +5,7 @@
 id: 0136 
 type: compound 
 primary: quadriceps 
-secondary: calves,hamstring,gluts 
+secondary: calves,hamstrings,glutes 
 equipment: dumbbell 
 ``` 
 

@@ -4,7 +4,7 @@
 ``` 
 id: 0002 
 type: isometric 
-primary: neck side flexors 
+primary: neck 
 secondary: none 
 equipment: body 
 ``` 

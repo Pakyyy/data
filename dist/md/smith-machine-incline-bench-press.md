@@ -4,9 +4,9 @@
 ``` 
 id: 0302 
 type:  
-primary:  
+primary: chest 
 secondary: none 
-equipment:  
+equipment: smith machine 
 ``` 
 
 ## Steps

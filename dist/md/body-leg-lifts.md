@@ -4,8 +4,8 @@
 ``` 
 id: 0111 
 type: isolation 
-primary: gluts 
-secondary: hamstring 
+primary: glutes 
+secondary: hamstrings 
 equipment: body 
 ``` 
 

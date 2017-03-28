@@ -6,7 +6,7 @@ id: 0091
 type:  
 primary: back 
 secondary: neck,biceps 
-equipment:  
+equipment: body, pull-up bar 
 ``` 
 
 ## Steps

@@ -5,7 +5,7 @@
 id: 0118 
 type: isolation 
 primary: hamstrings 
-secondary: calves,quadriceps,gluts 
+secondary: calves,quadriceps,glutes 
 equipment: barbell 
 ``` 
 

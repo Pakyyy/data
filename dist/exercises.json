@@ -6,7 +6,7 @@
         "alias": "",
         "primer": "An exercise to either build or warm-up front and back neck strength.",
         "type": "isometric",
-        "primary": "neck extensors, neck flexors",
+        "primary": "neck",
         "secondary": "",
         "equipment": [
             "body"
@@ -36,7 +36,7 @@
         "alias": "",
         "primer": "An exercise either build or warm up neck side flexors.",
         "type": "isometric",
-        "primary": "neck side flexors",
+        "primary": "neck",
         "secondary": "",
         "equipment": [
             "body"
@@ -542,10 +542,9 @@
         "alias": "",
         "primer": "This is an exercise for lateral deltoid, shoulder and forearm strengthening.",
         "type": "isolation",
-        "primary": "lateral deltoid",
+        "primary": "shoulders",
         "secondary": [
-            "forearm",
-            "shoulders"
+            "forearm"
         ],
         "equipment": [
             "dumbbells"
@@ -647,7 +646,7 @@
         "alias": "",
         "primer": "This is an exercise for lower abdominal strengthening.",
         "type": "isolation",
-        "primary": "lower abdominals",
+        "primary": "abdominals",
         "secondary": "",
         "equipment": [
             "body"
@@ -678,13 +677,12 @@
         "name": "smith-machine-rear-deltoid-row",
         "title": "Smith Machine Rear Deltoid Row",
         "alias": "",
-        "primer": "",
+        "primer": "A exercise for the rear deltoid",
         "type": "isolation",
-        "primary": "rear deltoid",
+        "primary": "shoulders",
         "secondary": [
             "back",
-            "biceps",
-            "shoulders"
+            "biceps"
         ],
         "equipment": [
             "smith machine"
@@ -749,9 +747,8 @@
         "alias": "",
         "primer": "This is an exercise for deltoid, biceps and trapezius strengthening.",
         "type": "isolation",
-        "primary": "posterior deltoid",
+        "primary": "shoulders",
         "secondary": [
-            "lateral deltoid",
             "biceps",
             "trapezius"
         ],
@@ -1301,6 +1298,9 @@
             "Return to starting position."
         ],
         "tips": "",
+        "references": [
+            "https://youtu.be/LnhpKTXeIeg"
+        ],
         "svg": [
             "svg/0042-relaxation.svg",
             "svg/0042-tension.svg"
@@ -2307,7 +2307,10 @@
         "type": "",
         "primary": "",
         "secondary": "",
-        "equipment": "",
+        "equipment": [
+            "body",
+            "bench"
+        ],
         "steps": [
             "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
             "Place your feet on a bench at least 18” off the ground.",
@@ -2785,7 +2788,10 @@
         "alias": "",
         "primer": "This is an exercise similar to the regular Chin Up but focuses more on shoulder strengthening.",
         "type": "isolation",
-        "primary": "shoulders, lats",
+        "primary": [
+            "shoulders",
+            "lats"
+        ],
         "secondary": [
             "back",
             "core"
@@ -2825,7 +2831,10 @@
             "neck",
             "biceps"
         ],
-        "equipment": "",
+        "equipment": [
+            "body",
+            "pull-up bar"
+        ],
         "steps": [
             "Grasp a chin up bar with a slightly wider than shoulder width grip.",
             "Keeping your body straight pull yourself up and to one side of the bar.",
@@ -3292,7 +3301,7 @@
         "primary": "lower back",
         "secondary": [
             "calves",
-            "hamstring"
+            "hamstrings"
         ],
         "equipment": [
             "dumbbells"
@@ -3325,7 +3334,7 @@
         "alias": "",
         "primer": "This is an excellent exercise for strengthening and maintaining the core muscles.",
         "type": "isolation",
-        "primary": "gluts",
+        "primary": "glutes",
         "secondary": [
             "core"
         ],
@@ -3353,9 +3362,9 @@
         "alias": "",
         "primer": "This is an exercise for gluts and hamstring strengthening.",
         "type": "isolation",
-        "primary": "gluts",
+        "primary": "glutes",
         "secondary": [
-            "hamstring"
+            "hamstrings"
         ],
         "equipment": [
             "body"
@@ -3383,9 +3392,9 @@
         "alias": "",
         "primer": "This is an exercise for gluts and hamstring strengthening.",
         "type": "isolation",
-        "primary": "gluts",
+        "primary": "glutes",
         "secondary": [
-            "hamstring"
+            "hamstrings"
         ],
         "equipment": [
             "cable machine"
@@ -3441,9 +3450,9 @@
         "alias": "",
         "primer": "This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.",
         "type": "isolation",
-        "primary": "hamstring",
+        "primary": "hamstrings",
         "secondary": [
-            "gluts",
+            "glutes",
             "quadriceps",
             "calves"
         ],
@@ -3477,9 +3486,9 @@
         "alias": "",
         "primer": "This is an exercise for whole leg but mainly hamstring strengthening.",
         "type": "isolation",
-        "primary": "hamstring",
+        "primary": "hamstrings",
         "secondary": [
-            "gluts",
+            "glutes",
             "quadriceps",
             "calves"
         ],
@@ -3544,7 +3553,7 @@
         "alias": "",
         "primer": "This is an exercise for hamstring strengthening.",
         "type": "isolation",
-        "primary": "hamstring",
+        "primary": "hamstrings",
         "secondary": "",
         "equipment": [
             "machine"
@@ -3576,7 +3585,7 @@
         "secondary": [
             "calves",
             "quadriceps",
-            "gluts"
+            "glutes"
         ],
         "equipment": [
             "barbell"
@@ -3665,7 +3674,7 @@
         "primary": "hamstrings",
         "secondary": [
             "quadriceps",
-            "gluts",
+            "glutes",
             "calves"
         ],
         "equipment": [
@@ -3767,7 +3776,7 @@
         "primary": "quadriceps",
         "secondary": [
             "calves",
-            "gluts",
+            "glutes",
             "hamstrings"
         ],
         "equipment": [
@@ -3834,7 +3843,7 @@
         "primary": "quadriceps",
         "secondary": [
             "hamstrings",
-            "gluts"
+            "glutes"
         ],
         "equipment": [
             "smith machine"
@@ -3902,7 +3911,7 @@
         "secondary": [
             "hip abductors",
             "calves",
-            "gluts",
+            "glutes",
             "hamstrings"
         ],
         "equipment": [
@@ -3937,7 +3946,7 @@
         "secondary": [
             "calves",
             "hamstrings",
-            "gluts",
+            "glutes",
             "hip abductors"
         ],
         "equipment": [
@@ -3970,7 +3979,7 @@
         "type": "compound",
         "primary": "quadriceps",
         "secondary": [
-            "hamstring",
+            "hamstrings",
             "calves"
         ],
         "equipment": [
@@ -4068,7 +4077,7 @@
         "type": "compound",
         "primary": "quadriceps",
         "secondary": [
-            "gluts",
+            "glutes",
             "calves",
             "hamstrings"
         ],
@@ -4168,8 +4177,8 @@
         "primary": "quadriceps",
         "secondary": [
             "calves",
-            "hamstring",
-            "gluts"
+            "hamstrings",
+            "glutes"
         ],
         "equipment": [
             "dumbbell"
@@ -4396,7 +4405,7 @@
         "primary": "quadriceps",
         "secondary": [
             "calves",
-            "hamstring"
+            "hamstrings"
         ],
         "equipment": [
             "machine"
@@ -7677,7 +7686,9 @@
         "secondary": [
             "forearm"
         ],
-        "equipment": "",
+        "equipment": [
+            "machine"
+        ],
         "steps": [
             "Adjust the seat of the machine so your elbows are correctly aligned with the rotation axis.",
             "Press your arms against the pads and keep them stationary throughout the exercise.",
@@ -7895,7 +7906,10 @@
         "alias": "",
         "primer": "This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise",
         "type": "isolation",
-        "primary": "triceps, biceps",
+        "primary": [
+            "triceps",
+            "biceps"
+        ],
         "secondary": [
             "forearm",
             "should"
@@ -7960,7 +7974,7 @@
         "alias": "",
         "primer": "This exercise is similar to the motions of bowling.",
         "type": "",
-        "primary": "arms",
+        "primary": "biceps",
         "secondary": [
             "calves",
             "triceps",
@@ -7997,7 +8011,7 @@
         "type": "isolation",
         "primary": "biceps",
         "secondary": [
-            "hamstring",
+            "hamstrings",
             "forearm",
             "quadriceps",
             "calves"
@@ -8030,7 +8044,10 @@
         "alias": "",
         "primer": "This is an advanced exercise that combines a lateral lunge with a bicep curl.",
         "type": "compound, isolation",
-        "primary": "quadriceps, biceps",
+        "primary": [
+            "quadriceps",
+            "biceps"
+        ],
         "secondary": [
             "forearm",
             "hamstrings",
@@ -8274,7 +8291,7 @@
         "primary": "calves",
         "secondary": [
             "quadriceps",
-            "hamstring"
+            "hamstrings"
         ],
         "equipment": [
             "balance board"
@@ -9120,9 +9137,11 @@
         "alias": "",
         "primer": "",
         "type": "",
-        "primary": "",
+        "primary": "chest",
         "secondary": "",
-        "equipment": "",
+        "equipment": [
+            "smith machine"
+        ],
         "steps": [
             "This is an exercise for chest, shoulder and triceps strengthening.",
             "Place an incline bench at a 45 degree angle in the middle of the Smith Machine.",
@@ -9133,10 +9152,7 @@
         ],
         "tips": "",
         "svg": [],
-        "png": [
-            "png/smith-machine-incline-bench-press-1.png",
-            "png/smith-machine-incline-bench-press-2.png"
-        ]
+        "png": []
     },
     {
         "id": "0303",
@@ -9145,17 +9161,20 @@
         "alias": "",
         "primer": "",
         "type": "",
-        "primary": "",
+        "primary": "hamstrings",
         "secondary": "",
-        "equipment": "",
+        "equipment": [
+            "smith machine"
+        ],
         "steps": [
-            "Stand with your feet shoulder width apart so that your feet are under the bar. Keeping your back straight bend at the waist, allow some bend in your knees. Grasp the par with an overhand grip approximately 16 inches apart. Straighten your back as you hold the bar at arm’s length. Bend over again lowering the bar to just above the floor."
+            "Stand with your feet shoulder width apart so that your feet are under the bar.",
+            "Keeping your back straight bend at the waist, allow some bend in your knees.",
+            "Grasp the par with an overhand grip approximately 16 inches apart.",
+            "Straighten your back as you hold the bar at arm’s length.",
+            "Bend over again lowering the bar to just above the floor."
         ],
         "tips": "",
         "svg": [],
-        "png": [
-            "png/smith-machine-dead-lifts-1.png",
-            "png/smith-machine-dead-lifts-2.png"
-        ]
+        "png": []
     }
 ]

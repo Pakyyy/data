@@ -4,7 +4,7 @@
 ``` 
 id: 0262 
 type:  
-primary: arms 
+primary: biceps 
 secondary: calves,triceps,hamstrings,glutes,quadriceps 
 equipment: medicine ball 
 ``` 

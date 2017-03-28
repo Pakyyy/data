@@ -4,7 +4,7 @@
 ``` 
 id: 0109 
 type: isolation 
-primary: gluts 
+primary: glutes 
 secondary: core 
 equipment: body 
 ``` 

@@ -4,7 +4,7 @@
 ``` 
 id: 0117 
 type: isolation 
-primary: hamstring 
+primary: hamstrings 
 secondary: none 
 equipment: machine 
 ``` 

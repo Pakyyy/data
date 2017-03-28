@@ -4,8 +4,8 @@
 ``` 
 id: 0024 
 type: isolation 
-primary: posterior deltoid 
-secondary: lateral deltoid,biceps,trapezius 
+primary: shoulders 
+secondary: biceps,trapezius 
 equipment: dumbbell 
 ``` 
 

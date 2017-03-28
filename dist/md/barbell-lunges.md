@@ -4,8 +4,8 @@
 ``` 
 id: 0114 
 type: isolation 
-primary: hamstring 
-secondary: gluts,quadriceps,calves 
+primary: hamstrings 
+secondary: glutes,quadriceps,calves 
 equipment: barbell 
 ``` 
 

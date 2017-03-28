@@ -5,7 +5,7 @@
 id: 0263 
 type: isolation 
 primary: biceps 
-secondary: hamstring,forearm,quadriceps,calves 
+secondary: hamstrings,forearm,quadriceps,calves 
 equipment: dumbbell 
 ``` 
 

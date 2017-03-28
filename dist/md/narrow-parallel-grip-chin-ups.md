@@ -4,7 +4,7 @@
 ``` 
 id: 0090 
 type: isolation 
-primary: shoulders, lats 
+primary: shoulders,lats 
 secondary: back,core 
 equipment: bar, body 
 ``` 

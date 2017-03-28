@@ -4,8 +4,8 @@
 ``` 
 id: 0112 
 type: isolation 
-primary: gluts 
-secondary: hamstring 
+primary: glutes 
+secondary: hamstrings 
 equipment: cable machine 
 ``` 
 

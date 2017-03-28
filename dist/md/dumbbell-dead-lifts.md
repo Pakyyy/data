@@ -5,7 +5,7 @@
 id: 0107 
 type: isolation 
 primary: lower back 
-secondary: calves,hamstring 
+secondary: calves,hamstrings 
 equipment: dumbbells 
 ``` 
 

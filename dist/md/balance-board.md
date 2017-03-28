@@ -5,7 +5,7 @@
 id: 0271 
 type: compound 
 primary: calves 
-secondary: quadriceps,hamstring 
+secondary: quadriceps,hamstrings 
 equipment: balance board 
 ``` 
 

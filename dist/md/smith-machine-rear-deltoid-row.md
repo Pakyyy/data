@@ -1,11 +1,11 @@
 # Smith Machine Rear Deltoid Row
-> 
+> A exercise for the rear deltoid
 
 ``` 
 id: 0022 
 type: isolation 
-primary: rear deltoid 
-secondary: back,biceps,shoulders 
+primary: shoulders 
+secondary: back,biceps 
 equipment: smith machine 
 ``` 
 

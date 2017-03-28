@@ -6,7 +6,7 @@ id: 0253
 type: isolation 
 primary: biceps 
 secondary: forearm 
-equipment:  
+equipment: machine 
 ``` 
 
 ## Steps
