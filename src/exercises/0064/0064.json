@@ -8,7 +8,7 @@
     "primary": "chest",
     "secondary": "",
     "equipment": [
-        "decline bench",
+        "bench: decline",
         "barbell"
     ],
     "steps": [

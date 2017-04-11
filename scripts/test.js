@@ -5,6 +5,10 @@ var util = require('./util');
 var data = util.getExercises();
 var result = [];
 var error = false;
+var hash = {};
+
+var values = require('./test.json');
+
 
 cont('missing name', function (obj) { return !obj.name; });
 cont('missing/wrong type', function (obj) { return !/isometric|isolation|compound/.test(obj.type); }, function (obj) { return obj.id + (obj.type ? '(' + obj.type + ')' : ''); });
