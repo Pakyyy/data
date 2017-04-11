@@ -2,11 +2,12 @@
     "id": "0002",
     "name": "static-neck-side-flexion",
     "title": "Static Neck Side Flexion",
-    "alias": "",
     "primer": "An exercise either build or warm up neck side flexors.",
     "type": "isometric",
-    "primary": "neck",
-    "secondary": "",
+    "primary": [
+        "neck"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -18,5 +19,6 @@
     ],
     "tips": [
         "Make sure you maintain your chin at a 90 degree angle to your neck"
-    ]
+    ],
+    "references": []
 }

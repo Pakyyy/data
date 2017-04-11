@@ -2,10 +2,11 @@
     "id": "0125",
     "name": "hack-squat-with-barbell",
     "title": "Hack Squat with barbell",
-    "alias": "",
     "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings"
     ],
@@ -20,5 +21,6 @@
         "Lower yourself (squat) down until your thighs are parallel to the floor.",
         "Slowly raise yourself up to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

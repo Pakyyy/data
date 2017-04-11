@@ -2,11 +2,12 @@
     "id": "0242",
     "name": "seated-close-grip-concentration-curls-with-barbell",
     "title": "Seated Close Grip Concentration Curls with Barbell",
-    "alias": "",
     "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
     "type": "isolation",
-    "primary": "biceps",
-    "secondary": "",
+    "primary": [
+        "biceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -19,5 +20,6 @@
         "Slowly lower the bar to the starting position near the floor.",
         "Note: Keep all of your body still except the arm you are exercising."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

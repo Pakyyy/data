@@ -2,10 +2,11 @@
     "id": "0171",
     "name": "tricep-dips",
     "title": "Tricep Dips using Machine",
-    "alias": "",
     "primer": "This exercise uses a machine to work the triceps while in seated position.",
     "type": "compound",
-    "primary": "triceps",
+    "primary": [
+        "triceps"
+    ],
     "secondary": [
         "shoulders"
     ],
@@ -17,5 +18,6 @@
         "Grasping the handles, press down with equal pressure until your arms are fully extended.",
         "Pause, and then return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

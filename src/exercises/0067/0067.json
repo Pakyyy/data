@@ -2,10 +2,11 @@
     "id": "0067",
     "name": "barbell-neck-press",
     "title": "Barbell Neck Press",
-    "alias": "",
     "primer": "This is an advanced exercise for chest strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "biceps"
     ],
@@ -23,5 +24,6 @@
         "Return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

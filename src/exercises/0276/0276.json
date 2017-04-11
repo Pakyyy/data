@@ -2,11 +2,12 @@
     "id": "0276",
     "name": "seated-one-leg-calf-raise-with-dumbbell",
     "title": "Seated One Leg Calf Raise with Dumbbell",
-    "alias": "",
     "primer": "This version of a calf raise allows you to exercise each leg individually.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -17,5 +18,6 @@
         "Slowly raise and lower your toe up as high as possible without lifting your foot off the block.",
         "Switch feet and repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

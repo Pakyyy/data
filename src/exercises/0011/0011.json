@@ -2,10 +2,11 @@
     "id": "0011",
     "name": "barbell-shoulder-press",
     "title": "Seated Barbell Shoulder Press",
-    "alias": "",
     "primer": "This is an exercise for shoulder, chest and triceps strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "triceps",
         "chest"
@@ -21,5 +22,6 @@
     ],
     "tips": [
         "Do not perform this exercise if you have shoulder, elbow or wrist pain."
-    ]
+    ],
+    "references": []
 }

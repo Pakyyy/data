@@ -2,10 +2,11 @@
     "id": "0008",
     "name": "front-cable-raises",
     "title": "Front Cable Raises",
-    "alias": "",
     "primer": "An exercise for shoulders, chest and forearm strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "chest",
         "forearm"
@@ -24,5 +25,6 @@
     "tips": [
         "Maintain a good posture at all times during this exercise ensuring not swaying or arching at your back.",
         "Do not perform this exercise if you have shoulder pain."
-    ]
+    ],
+    "references": []
 }

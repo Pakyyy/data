@@ -2,10 +2,11 @@
     "id": "0069",
     "name": "bosu-ball-push-up",
     "title": "Bosu Ball Push Up",
-    "alias": "",
     "primer": "This is an exercise for chest, core, shoulders and triceps strengthening with the use of a Bosu ball.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "core",
@@ -24,5 +25,6 @@
     "tips": [
         "Ensure your elbows remain close to your body while lowering your chest to the ball.",
         "Beginners may want to start on your knees with your feet off the ground so you are rocking into the Push Up."
-    ]
+    ],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0206",
     "name": "triceps-pushdown-with-rope-and-cable",
     "title": "Triceps Pushdown with Rope and Cable",
-    "alias": "",
     "primer": "This version of the triceps pushdown uses a rope for better definition in the muscle.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -18,5 +19,6 @@
         "Pause for a moment and then return to the starting position.",
         "Note: You may want to stager one foot in front of the other for a better stance."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

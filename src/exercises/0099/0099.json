@@ -2,10 +2,11 @@
     "id": "0099",
     "name": "barbell-dead-lifts",
     "title": "Barbell Dead Lifts",
-    "alias": "",
     "primer": "The techniques is identical to that of the Smith Machine dead lift except for the fact that this exercise provides less support.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "hamstrings",
         "calves"

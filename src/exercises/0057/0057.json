@@ -2,10 +2,11 @@
     "id": "0057",
     "name": "flat-bench-cable-flys",
     "title": "Flat Bench Cable Flys",
-    "alias": "",
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders"
     ],
@@ -22,5 +23,6 @@
         "<h3>Tip</h3>",
         "Ensure your back and hips stay in contact with the bench at all times during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

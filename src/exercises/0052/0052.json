@@ -2,10 +2,11 @@
     "id": "0052",
     "name": "decline-dumbbell-bench-press",
     "title": "Decline Dumbbell Bench Press",
-    "alias": "",
     "primer": "This is an exercise for chest, shoulder and triceps strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -20,5 +21,6 @@
         "Slowly and with control lower the dumbbells to either side of your lower chest.",
         "Raise the dumbbells back up to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

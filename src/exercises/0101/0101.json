@@ -2,10 +2,11 @@
     "id": "0101",
     "name": "barbell-good-mornings",
     "title": "Barbell Good Mornings",
-    "alias": "",
     "primer": "This is one of the oldest exercises in bodybuilding but it still is one of the best for working the lower back.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "hamstrings"
     ],
@@ -18,5 +19,6 @@
         "Return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

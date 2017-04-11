@@ -2,10 +2,11 @@
     "id": "0243",
     "name": "seated-biceps-curl-with-dumbbell",
     "title": "Seated Bicep Curl with Dumbbell",
-    "alias": "",
     "primer": "This exercise is a seated biceps curl using dumbbells.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -19,5 +20,6 @@
         "Squeeze your biceps at the top and slowly lower to the starting position.",
         "Note: If possible use a short backed bench to help your posture."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

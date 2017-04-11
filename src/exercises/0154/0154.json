@@ -2,10 +2,11 @@
     "id": "0154",
     "name": "speed-squats-with-barbell",
     "title": "Speed Squats with Barbell",
-    "alias": "",
     "primer": "This version of the squat uses an empty barbell and moves at a faster pace than the standard squat.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "glutes",
@@ -22,5 +23,6 @@
         "Pause in the downward position and slowly return upright to the starting position.",
         "Note: Keep your feet firmly planted on the floor throughout this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

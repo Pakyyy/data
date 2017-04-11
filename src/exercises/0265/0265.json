@@ -2,10 +2,11 @@
     "id": "0265",
     "name": "forward-lunge-with-biceps-curl-using-dumbbell",
     "title": "Forward Lunge with Bicep Curl using Dumbbell",
-    "alias": "",
     "primer": "This exercise combines a forward lunge with a bicep curl.",
     "type": "compound, isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "calves",
         "hip abductors",
@@ -26,5 +27,6 @@
         "Return to starting position and switch legs.",
         "Note: Have a Personal Trainer or Instructor show you how to properly perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

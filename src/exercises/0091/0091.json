@@ -2,15 +2,19 @@
     "id": "0091",
     "name": "wide-grip-chin-up",
     "title": "Wide Grip Chin Up",
-    "alias": "",
     "primer": "This variation on the basic chin up is a great exercise for people who rock climb.",
     "type": "",
-    "primary": "back",
+    "primary": [
+        "back"
+    ],
     "secondary": [
         "neck",
         "biceps"
     ],
-    "equipment": ["body", "pull-up bar"],
+    "equipment": [
+        "body",
+        "pull-up bar"
+    ],
     "steps": [
         "Grasp a chin up bar with a slightly wider than shoulder width grip.",
         "Keeping your body straight pull yourself up and to one side of the bar.",
@@ -20,5 +24,6 @@
     ],
     "tips": [
         "Ensure to hang dow completely before alternating to the other side."
-    ]
+    ],
+    "references": []
 }

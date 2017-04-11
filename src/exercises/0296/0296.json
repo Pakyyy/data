@@ -2,11 +2,12 @@
     "id": "0296",
     "name": "exercise-ball-pull-in",
     "title": "Exercise Ball Pull In",
-    "alias": "",
     "primer": "This exercise uses a ball to isolate and work the lower abdominal muscles.",
     "type": "compound",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -17,5 +18,6 @@
         "Crunch your abs and then roll the ball back to starting position straighten your legs.",
         "Note: Keep your back straight as you perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0230",
     "name": "incline-inner-biceps-curl-with-dumbbell",
     "title": "Incline Biceps Curl with Dumbbell",
-    "alias": "",
     "primer": "This exercise uses an incline bench to change your body’s position as you perform Biceps Curls.",
     "type": "isolation",
-    "primary": "biceps",
-    "secondary": "",
+    "primary": [
+        "biceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -19,5 +20,6 @@
         "In a controlled manner lower the weight and repeat.",
         "Note: Practice steady movements in this exercise, be careful not to let your arms sway."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

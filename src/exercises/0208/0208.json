@@ -2,11 +2,12 @@
     "id": "0208",
     "name": "weighted-ball-side-bend",
     "title": "Weighted Ball Side Bend",
-    "alias": "",
     "primer": "This exercise use a Stability Ball instead of a bench to work the obliques.",
     "type": "isolation",
-    "primary": "obliques",
-    "secondary": "",
+    "primary": [
+        "obliques"
+    ],
+    "secondary": [],
     "equipment": [
         "weight",
         "exercise ball"
@@ -19,5 +20,6 @@
         "Raise your torso up off the ball by flexing your waist.",
         "With controlled movements lower yourself back onto the ball."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

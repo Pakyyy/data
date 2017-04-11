@@ -2,10 +2,11 @@
     "id": "0161",
     "name": "zecher-squats",
     "title": "Zecher Squats",
-    "alias": "",
     "primer": "This variation of squat is similar to a Front Squat, it works to build the Upper muscles of the quadriceps (thighs).",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "glutes",
         "hamstrings",
@@ -23,5 +24,6 @@
         "Pause in the downward position and slowly return upright to the starting position.",
         "Note: Practice the squat without any weight to allow yourself to become comfortable with the movements."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

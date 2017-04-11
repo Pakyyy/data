@@ -2,10 +2,11 @@
     "id": "0229",
     "name": "high-cable-curls",
     "title": "High Cable Curls",
-    "alias": "",
     "primer": "This exercise allows you to target the muscles of your arms from a different position.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "triceps"
     ],
@@ -20,5 +21,6 @@
         "Pull the bar down towards you, curling your arms as much as possible.",
         "Slowly return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

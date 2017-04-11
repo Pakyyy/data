@@ -2,11 +2,12 @@
     "id": "0037",
     "name": "lying-one-arm-rear-lateral-raise",
     "title": "Lying One Arm Rear Lateral Raise",
-    "alias": "",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
-    "secondary": "",
+    "primary": [
+        "shoulders"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell",
         "flat bench"
@@ -21,5 +22,6 @@
     ],
     "tips": [
         "Ensure your back is straight throughout this exercise."
-    ]
+    ],
+    "references": []
 }

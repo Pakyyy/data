@@ -2,10 +2,11 @@
     "id": "0107",
     "name": "dumbbell-dead-lifts",
     "title": "Dumbbell Dead Lifts",
-    "alias": "",
     "primer": "This is an exercise for lower back, hamstring and calves strengthening.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "calves",
         "hamstrings"
@@ -24,5 +25,6 @@
     ],
     "tips": [
         "Do not increase the weight on this exercise until you have mastered the correct form."
-    ]
+    ],
+    "references": []
 }

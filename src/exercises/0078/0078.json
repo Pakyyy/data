@@ -2,10 +2,11 @@
     "id": "0078",
     "name": "smith-machine-bench-press",
     "title": "Smith Machine Bench Press",
-    "alias": "",
     "primer": "With the use of a Smith Machine this exercise strengthens your chest shoulders and triceps.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "triceps"
@@ -23,5 +24,6 @@
     ],
     "tips": [
         "Ensure your hips and back remain in contact with the bench throughout this exercise."
-    ]
+    ],
+    "references": []
 }

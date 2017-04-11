@@ -2,10 +2,11 @@
     "id": "0055",
     "name": "bench-press-dumbbell",
     "title": "Bench Press Dumbbell",
-    "alias": "",
     "primer": "This is  an exercise for chest,triceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "triceps"
@@ -24,5 +25,6 @@
         "With a controlled motion return back to your starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

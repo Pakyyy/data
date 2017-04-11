@@ -2,10 +2,11 @@
     "id": "0025",
     "name": "seated-cable-rows",
     "title": "Seated Cable Rows",
-    "alias": "",
     "primer": "This is an exercise for middle back, biceps and lower back strengthening.",
     "type": "compound",
-    "primary": "middle back",
+    "primary": [
+        "middle back"
+    ],
     "secondary": [
         "biceps",
         "lower back"
@@ -22,5 +23,6 @@
     ],
     "tips": [
         "Ensure that your back is straight at all times and do not lock your knees when rowing back."
-    ]
+    ],
+    "references": []
 }

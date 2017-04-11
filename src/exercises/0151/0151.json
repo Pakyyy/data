@@ -2,10 +2,11 @@
     "id": "0151",
     "name": "overhead-squat-with-barbell",
     "title": "Overhead Squat with Barbell",
-    "alias": "",
     "primer": "In this version of the squat you hold the bar overhead as you perform the exercise.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "glutes",
         "calves",
@@ -23,5 +24,6 @@
         "Return to starting position.",
         "Notes: Keep your feet firmly planted on the floor throughout this exercise. Keep your abs drawn in your back tight and your chest up you perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

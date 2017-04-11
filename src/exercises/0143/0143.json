@@ -2,10 +2,11 @@
     "id": "0143",
     "name": "narrow-stance-leg-press",
     "title": "Narrow Stance Leg Press",
-    "alias": "",
     "primer": "This is a variation of the leg press which targets more of the external muscles of the legs.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "hamstrings"
@@ -21,5 +22,6 @@
         "Hold this position for a moment and then slowly return the weight to starting position.",
         "Note: Do not lock your knees at the top."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0207",
     "name": "triceps-pushdown-with-v-bar-and-cable",
     "title": "Triceps Pushdown with V Bar and Cable",
-    "alias": "",
     "primer": "This exercise is the triceps pushdown uses a V shaped bar.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable",
         "v-bar"
@@ -21,5 +22,6 @@
         "Pause for a moment and then return to the starting position.",
         "Note: You may want to stager one foot in front of the other for a better stance."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

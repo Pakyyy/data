@@ -2,10 +2,11 @@
     "id": "0223",
     "name": "alternating-biceps-curl-with-dumbbell",
     "title": "Alternating Bicep Curl with Dumbbell",
-    "alias": "",
     "primer": "This exercise is a single arm version of a biceps curl.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -21,5 +22,6 @@
         "Lower your arm and repeat with your right arm.",
         "Note: Do not swing your body as you perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

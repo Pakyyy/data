@@ -2,10 +2,11 @@
     "id": "0080",
     "name": "incline-dumbbell-press",
     "title": "Incline Dumbbell Press",
-    "alias": "",
     "primer": "This exercises is for mainly chest strengthening but also strengthens your triceps and shoulders.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -21,5 +22,6 @@
         "Slowly return the dumbbells to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

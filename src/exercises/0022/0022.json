@@ -2,10 +2,11 @@
     "id": "0022",
     "name": "smith-machine-rear-deltoid-row",
     "title": "Smith Machine Rear Deltoid Row",
-    "alias": "",
     "primer": "A exercise for the rear deltoid",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "back",
         "biceps"
@@ -25,5 +26,6 @@
     ],
     "tips": [
         "Ensure you back is straight and that you maintain a good posture throughout this exercise."
-    ]
+    ],
+    "references": []
 }

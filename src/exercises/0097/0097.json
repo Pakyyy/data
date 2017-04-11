@@ -2,10 +2,11 @@
     "id": "0097",
     "name": "wide-grip-lat-pull-down",
     "title": "Wide Grip Lat Pull Down",
-    "alias": "",
     "primer": "This is an exercise for lats, biceps and middle back strengthening.",
     "type": "isolation",
-    "primary": "lats",
+    "primary": [
+        "lats"
+    ],
     "secondary": [
         "biceps",
         "middle back"
@@ -22,5 +23,6 @@
     ],
     "tips": [
         "Ensure you maintain a straight back trough out this exercise."
-    ]
+    ],
+    "references": []
 }

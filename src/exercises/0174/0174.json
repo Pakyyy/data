@@ -2,11 +2,12 @@
     "id": "0174",
     "name": "incline-triceps-extension-with-barbell",
     "title": "Incline Triceps Extension with Barbell",
-    "alias": "",
     "primer": "This version of a triceps extension uses gravity to increase the resistance of the exercise.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -16,5 +17,6 @@
         "Lower your arms in a slight arc so your forearms are touching your biceps.",
         "Slowly return back to the starting position with the bar over your head."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

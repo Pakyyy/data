@@ -2,10 +2,11 @@
     "id": "0012",
     "name": "dumbbell-shoulder-press",
     "title": "Dumbbell Shoulder Press",
-    "alias": "",
     "primer": "An exercise for shoulder, chest and triceps strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "triceps",
         "chest"
@@ -21,5 +22,6 @@
         "Pause for a moment and then in a controlled movement lower the dumbbells to the starting position.",
         "Repeat"
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

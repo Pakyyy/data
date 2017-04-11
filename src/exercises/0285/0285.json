@@ -2,10 +2,11 @@
     "id": "0285",
     "name": "ab-rollout-with-barbell",
     "title": "Ab Rollout with Barbell",
-    "alias": "",
     "primer": "This exercise works the abs and lower back and is the proper version of an “ab roller”.",
     "type": "compound",
-    "primary": "abdominals",
+    "primary": [
+        "abdominals"
+    ],
     "secondary": [
         "lower back",
         "shoulders"
@@ -21,5 +22,6 @@
         "Roll back up raising your hips and butt as you return to the starting position.",
         "Note: Practice raising your hips and butt as high as you can with this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

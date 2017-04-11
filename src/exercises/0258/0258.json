@@ -2,10 +2,11 @@
     "id": "0258",
     "name": "one-arm-bicep-concentration-on-stability-ball-with-dumbbell",
     "title": "One Arm Bicep Concentration on Stability Ball with Dumbbell",
-    "alias": "",
     "primer": "This exercise uses a Stability Ball instead of a bench for better form.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -20,5 +21,6 @@
         "Curl your arm up to your chest keeping your elbow steady.",
         "Return to starting position and change hands."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

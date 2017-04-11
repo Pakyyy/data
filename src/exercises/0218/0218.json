@@ -2,10 +2,11 @@
     "id": "0218",
     "name": "close-grip-ez-bar-curl-with-barbell",
     "title": "Close Grip EZ Bar Curl with Barbell",
-    "alias": "",
     "primer": "This exercise uses a cambered EZ or curl bar to isolate the biceps during a curl.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -20,5 +21,6 @@
         "Pause for moment and then return to the starting position.",
         "Note: Lean up against a wall or post if you have problems keeping from swinging."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

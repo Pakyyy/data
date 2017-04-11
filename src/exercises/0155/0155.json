@@ -2,10 +2,11 @@
     "id": "0155",
     "name": "squats-with-exercise-bands",
     "title": "Squats with Exercise Bands",
-    "alias": "",
     "primer": "This version of the Squat uses flexible exercise bands for resistance instead of weights.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "glutes",
@@ -21,5 +22,6 @@
         "Slowly return to the starting position.",
         "Note: Keep your feet firmly planted on the floor throughout this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

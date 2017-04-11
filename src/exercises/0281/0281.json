@@ -2,11 +2,12 @@
     "id": "0281",
     "name": "standing-barbell-calf-raise",
     "title": "Standing Barbell Calf Raise",
-    "alias": "",
     "primer": "This is standing version of a Calf Raise.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -16,5 +17,6 @@
         "Slowly lift your heels up and then lower them back to the floor getting as much of a stretch as possible.",
         "Return to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

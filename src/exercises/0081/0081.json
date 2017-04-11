@@ -2,10 +2,11 @@
     "id": "0081",
     "name": "smith-machine-incline-bench-press",
     "title": "Smith Machine Incline Bench Press",
-    "alias": "",
     "primer": "This is an exercise for chest, shoulder and triceps strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "triceps"
@@ -23,5 +24,6 @@
     ],
     "tips": [
         "when you are doing this exercise for the first time, start on a lower weight in oder to perfect the technique."
-    ]
+    ],
+    "references": []
 }

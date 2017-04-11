@@ -2,10 +2,12 @@
     "id": "0090",
     "name": "narrow-parallel-grip-chin-ups",
     "title": "Narrow Parallel Grip Chin-ups",
-    "alias": "",
     "primer": "This is an exercise similar to the regular Chin Up but focuses more on shoulder strengthening.",
     "type": "isolation",
-    "primary": ["shoulders", "lats"],
+    "primary": [
+        "shoulders",
+        "lats"
+    ],
     "secondary": [
         "back",
         "core"
@@ -23,5 +25,6 @@
     ],
     "tips": [
         "Ensure that your body remains in one line throughout this exercise."
-    ]
+    ],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0027",
     "name": "stationary-abdominal-draw-in",
     "title": "Stationary Abdominal Draw In",
-    "alias": "",
     "primer": "This is an exercise for abdominal and core strengthening which are vital in supporting the spine.",
     "type": "isometric",
-    "primary": "abdominals",
+    "primary": [
+        "abdominals"
+    ],
     "secondary": [
         "core"
     ],
@@ -21,5 +22,6 @@
     ],
     "tips": [
         "For this exercise to be maximally effective your back should not move at all through out the contraction and relaxation."
-    ]
+    ],
+    "references": []
 }

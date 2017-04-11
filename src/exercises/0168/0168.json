@@ -2,10 +2,11 @@
     "id": "0168",
     "name": "decline-close-grip-bench-to-skull-crusher",
     "title": "Decline Close Grip Bench to Skull Crusher",
-    "alias": "",
     "primer": "This exercise combines a close grip bench press with triceps extension.",
     "type": "isolation",
-    "primary": "triceps",
+    "primary": [
+        "triceps"
+    ],
     "secondary": [
         "chest"
     ],
@@ -20,5 +21,6 @@
         "At the top of the exercise bend your arms down towards your head.",
         "Raise the bar back up over your chest and repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

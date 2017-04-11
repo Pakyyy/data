@@ -2,10 +2,11 @@
     "id": "0248",
     "name": "standing-one-arm-curl-over-incline-bench-with-dumbbell",
     "title": "Standing One Arm Curl Over Incline Bench with Dumbbell",
-    "alias": "",
     "primer": "",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -22,5 +23,6 @@
         "Switch arms and repeat.",
         "Note: Perform this exercise in a slow controlled manner for best results."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

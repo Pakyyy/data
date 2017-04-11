@@ -2,11 +2,12 @@
     "id": "0158",
     "name": "weighted-sissy-squat-with-weight-plate",
     "title": "Weighted Sissy Squat with Weight Plate",
-    "alias": "",
     "primer": "Don't let the name of this exercise fool you, it is a an assisted squat which effectively works the quadriceps.",
     "type": "isolation",
-    "primary": "quadriceps",
-    "secondary": "",
+    "primary": [
+        "quadriceps"
+    ],
+    "secondary": [],
     "equipment": [
         "weight plate"
     ],
@@ -17,5 +18,6 @@
         "Return to the starting position.",
         "Note: Keep your feet placed firmly on the floor throughout this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

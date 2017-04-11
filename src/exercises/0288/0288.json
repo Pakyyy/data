@@ -2,11 +2,12 @@
     "id": "0288",
     "name": "seated-ab-crunch-with-cable",
     "title": "Seated Ab Crunch with Cable",
-    "alias": "",
     "primer": "This exercise uses the weight of a cable machine to assist in a crunch.",
     "type": "isolation",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -18,5 +19,6 @@
         "Return to the starting position.",
         "Note: Perform this exercise in a slow controlled manner."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0062",
     "name": "incline-dumbbell-flys",
     "title": "Incline Dumbbell Fly's",
-    "alias": "",
     "primer": "This is an exercise for chest sculpting and strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders"
     ],
@@ -21,5 +22,6 @@
     ],
     "tips": [
         "Ensure your hips and back remain in contact with the bench throughout the exercise."
-    ]
+    ],
+    "references": []
 }

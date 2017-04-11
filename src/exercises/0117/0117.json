@@ -2,11 +2,12 @@
     "id": "0117",
     "name": "lying-leg-curl-machine",
     "title": "Lying Leg Curl Machine",
-    "alias": "",
     "primer": "This is an exercise for hamstring strengthening.",
     "type": "isolation",
-    "primary": "hamstrings",
-    "secondary": "",
+    "primary": [
+        "hamstrings"
+    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],
@@ -16,5 +17,6 @@
         "Hold for a moment and then return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

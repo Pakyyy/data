@@ -2,11 +2,12 @@
     "id": "0202",
     "name": "standing-triceps-extension-with-towel",
     "title": "Standing Triceps Extension with Towel",
-    "alias": "",
     "primer": "This exercise requires another person and uses manual resistance, or your body’s own weight to build muscle.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -17,5 +18,6 @@
         "Lower your forearms down until they reach your biceps, then slowly raise your arms back up to starting position.",
         "Note: Keep your elbows close to your head during the exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

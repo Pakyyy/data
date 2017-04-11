@@ -2,10 +2,11 @@
     "id": "0222",
     "name": "drag-curl-with-barbell",
     "title": "Drag Curl with Barbell",
-    "alias": "",
     "primer": "This exercise works the biceps and forearms.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -20,5 +21,6 @@
         "Slowly raise your arms, palms down, to touch your chest.",
         "Note: Do not move your elbows or shoulders during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

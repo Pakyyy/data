@@ -2,10 +2,11 @@
     "id": "0098",
     "name": "pullover-stability-ball-weight",
     "title": "Pullover On Stability Ball With Weight",
-    "alias": "",
     "primer": "This is an exercise for back, shoulders and neck strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "back",
         "neck"
@@ -22,5 +23,6 @@
         "Return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

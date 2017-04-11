@@ -2,11 +2,12 @@
     "id": "0005",
     "name": "shoulder-shrugs",
     "title": "Shoulder Shrugs",
-    "alias": "",
     "primer": "An exercise for trapezius strengthening.",
     "type": "isolation",
-    "primary": "trapezius",
-    "secondary": "",
+    "primary": [
+        "trapezius"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -19,5 +20,6 @@
     ],
     "tips": [
         "Do not do this exercise if you are experiencing any shoulder or neck pain."
-    ]
+    ],
+    "references": []
 }

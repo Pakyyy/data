@@ -2,11 +2,12 @@
     "id": "0032",
     "name": "bent-over-rear-deltoid-raise-with-head-on-bench",
     "title": "Bent Over Rear Deltoid Raise With Head On Bench",
-    "alias": "",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
-    "secondary": "",
+    "primary": [
+        "shoulders"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbells"
     ],
@@ -19,5 +20,6 @@
     ],
     "tips": [
         "ensure your back is straight and parallel to the floor throughout the exercise."
-    ]
+    ],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0195",
     "name": "smith-machine-close-grip-bench-press",
     "title": "Smith Machine Close Grip Bench Press",
-    "alias": "",
     "primer": "This version of a Bench Press uses a close grip to isolate the triceps as well as working the chest.",
     "type": "compound",
-    "primary": "triceps",
+    "primary": [
+        "triceps"
+    ],
     "secondary": [
         "chest"
     ],
@@ -17,5 +18,6 @@
         "Using a close grip (about 6 inches apart) unlatch the bar and lower it towards your chest.",
         "Pause just before the bar hits your chest and raise the bar by extending your arms to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

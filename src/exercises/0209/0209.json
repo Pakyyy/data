@@ -2,10 +2,11 @@
     "id": "0209",
     "name": "incline-triceps-extensions-with-dumbbell",
     "title": "Incline Triceps Extensions with Dumbbell",
-    "alias": "",
     "primer": "This version of the triceps extension uses an incline bench.",
     "type": "isolation",
-    "primary": "triceps",
+    "primary": [
+        "triceps"
+    ],
     "secondary": [
         "shoulders"
     ],
@@ -18,5 +19,6 @@
         "Slowly lower the dumbbells behind your head by bending your elbows.",
         "With a controlled motion raise your arms back up to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0165",
     "name": "lying-triceps-extension-with-cable",
     "title": "Lying Tricep Extension with Cable",
-    "alias": "",
     "primer": "This exercise uses cables to isolate and work the triceps.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -19,5 +20,6 @@
         "Slowly extend your arms upright and return to the starting position.",
         "Note: Keep your elbows level throughout the exercises."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

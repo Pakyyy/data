@@ -2,10 +2,11 @@
     "id": "0024",
     "name": "rear-deltoid-row-dumbbell",
     "title": "Rear Deltoid Row Dumbbell",
-    "alias": "",
     "primer": "This is an exercise for deltoid, biceps and trapezius strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "biceps",
         "trapezius"
@@ -24,5 +25,6 @@
     ],
     "tips": [
         "maintain a good posture at all times throughout the exercise."
-    ]
+    ],
+    "references": []
 }

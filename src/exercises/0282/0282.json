@@ -2,11 +2,12 @@
     "id": "0282",
     "name": "standing-calf-raises-using-machine",
     "title": "Standing Calf Raises using Machine",
-    "alias": "",
     "primer": "This exercise uses a machine to allow for proper form.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],
@@ -16,5 +17,6 @@
         "Raise up on the balls of your feet, lifting your heels off the pad.",
         "Hold for a moment and then return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

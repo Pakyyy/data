@@ -6,11 +6,12 @@ var util = require('./util');
 _.each(util.getDirectories(__dirname + '/../src/exercises'), function (dir) {
     var data = _.extend(util.getData(dir.path + '/' + dir.name + '.json'));
     data = {
+
         id: data.id,
         name: data.name,
         title: data.title,
-        alias: data.alias ? data.alias : [],
-        region: data.region || [],
+        //alias: data.alias ? data.alias : [],
+        //region: data.region || [],
         primer: data.primer || '',
         type: data.type || '',
         primary: _.isArray(data.primary) ? data.primary : _.map(data.primary.split(','), function (str) { return str.trim(); }),

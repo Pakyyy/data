@@ -2,10 +2,11 @@
     "id": "0132",
     "name": "single-leg-squat-with-barbell",
     "title": "Single Leg Squat with Barbell",
-    "alias": "",
     "primer": "This is an advanced exercise and modification of the basic squat.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "hamstrings"
@@ -21,5 +22,6 @@
         "Slowly return to an upright position by straightening your hip and knee.",
         "Switch legs and repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0238",
     "name": "overhead-curl-with-cable",
     "title": "Overhead Curl with Cable",
-    "alias": "",
     "primer": "By using cable, this exercise isolates and defines the biceps muscles.",
     "type": "isolation",
-    "primary": "biceps",
-    "secondary": "",
+    "primary": [
+        "biceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -19,5 +20,6 @@
         "Contract your biceps and pause for a moment.",
         "Then return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

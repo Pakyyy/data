@@ -2,11 +2,12 @@
     "id": "0164",
     "name": "incline-triceps-extension-with-cable",
     "title": "Incline Triceps Extension with Cable",
-    "alias": "",
     "primer": "This exercise uses cables to isolate and work the triceps.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -18,5 +19,6 @@
         "Starting with your elbows bent overhead, slowly lower the bar towards your feet.",
         "Pause at the bottom and then return to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

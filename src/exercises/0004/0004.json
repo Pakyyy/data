@@ -2,10 +2,11 @@
     "id": "0004",
     "name": "seated-military-press",
     "title": "Seated Military Press",
-    "alias": "",
     "primer": "An exercise for the shoulder and triceps strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "triceps"
     ],
@@ -22,5 +23,6 @@
     "tips": [
         "Ensure your hips, knees and ankles are at 90 degree positions to ensure optimal posture.",
         "This exercise can also be performed with the bar in the starting position behind your head."
-    ]
+    ],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0205",
     "name": "triceps-pushdown-with-cable",
     "title": "Triceps Pushdown with Cable",
-    "alias": "",
     "primer": "This exercise is the original version of the triceps pushdown.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -18,5 +19,6 @@
         "Pause for a moment and then return to the starting position.",
         "Note: You may want to stager one foot in front of the other for a better stance."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

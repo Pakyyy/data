@@ -2,11 +2,12 @@
     "id": "0215",
     "name": "lying-incline-curl-with-barbell",
     "title": "Lying Incline Curl with Barbell",
-    "alias": "",
     "primer": "",
     "type": "isolation",
-    "primary": "biceps",
-    "secondary": "",
+    "primary": [
+        "biceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -19,5 +20,6 @@
         "In a controlled manner lower the weight and repeat.",
         "Note: Practice steady movements in this exercise, be careful not to let your arms sway."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0072",
     "name": "one-armed-biased-push-up",
     "title": "One Armed Biased Push Up",
-    "alias": "",
     "primer": "This is an exercise for chest strengthening but also strengthens ones core, shoulders, biceps and triceps.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "bicpes",
@@ -23,5 +24,6 @@
         "Pause for a moment and then return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

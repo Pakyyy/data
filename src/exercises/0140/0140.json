@@ -2,10 +2,11 @@
     "id": "0140",
     "name": "iron-cross-with-dumbbells",
     "title": "Iron Cross with Dumbbells",
-    "alias": "",
     "primer": "This is an advanced exercise that works the whole body.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "trapezius",
         "glutes",
@@ -21,5 +22,6 @@
         "Standing upright, move your arms out and away from your body forming a “T” or “cross”.",
         "Note: Do this exercise with light weights until you are comfortable with the movements."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

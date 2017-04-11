@@ -2,11 +2,12 @@
     "id": "0176",
     "name": "kneeling-triceps-extension-with-cable",
     "title": "Kneeling Triceps Concentration Extension with Cable",
-    "alias": "",
     "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -18,5 +19,6 @@
         "Repeat and switch arms.",
         "Note: Keep all of your body still except the arm you are exercising."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

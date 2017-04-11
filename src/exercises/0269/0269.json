@@ -2,10 +2,11 @@
     "id": "0269",
     "name": "biceps-curl-v-sit-on-dome-with-dumbbells",
     "title": "Biceps Curl V Sit on Dome with Dumbbells",
-    "alias": "",
     "primer": "This exercise uses a Dome (or Bosu) as a seat forcing you to engage and contract your abs throughout the exercise.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "abdominals",
         "core"
@@ -22,5 +23,6 @@
         "Slowly return to the starting position.",
         "Note: Try to keep your balance steady and not move your legs throughout this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

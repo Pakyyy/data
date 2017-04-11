@@ -2,10 +2,11 @@
     "id": "0092",
     "name": "straight-arm-push-down",
     "title": "Straight Arm Push Down",
-    "alias": "",
     "primer": "This exercise for strengthening the Lats and also works the Triceps.",
     "type": "isolation",
-    "primary": "lats",
+    "primary": [
+        "lats"
+    ],
     "secondary": [
         "triceps"
     ],
@@ -18,5 +19,6 @@
         "Keeping a slight bend in your elbows and your wrist steady pull the bar down from the starting position to your upper thighs.",
         "With a controlled motion bring the bar back up to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

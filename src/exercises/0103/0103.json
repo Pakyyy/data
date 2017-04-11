@@ -2,10 +2,11 @@
     "id": "0103",
     "name": "hyperextensions",
     "title": "Hyperextensions",
-    "alias": "",
     "primer": "This exercise not only adds strength but also flexibility to the back and core muscles.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "hamstrings",
         "core"
@@ -19,5 +20,6 @@
         "Slowly return to the starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

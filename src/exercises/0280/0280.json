@@ -2,11 +2,12 @@
     "id": "0280",
     "name": "smith-machine-reverse-calf-raises",
     "title": "Smith Machine Reverse Calf Raises",
-    "alias": "",
     "primer": "This is a unique exercise that works the tibialis anterior muscle, one of the muscles of the calves.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "smith machine"
     ],
@@ -17,5 +18,6 @@
         "Return to the starting position.",
         "Note: Use the bar for support as you perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

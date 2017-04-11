@@ -2,10 +2,11 @@
     "id": "0102",
     "name": "smith-machine-good-mornings",
     "title": "Smith Machine Good Mornings",
-    "alias": "",
     "primer": "This exercise utilises the same technique of the standard Good Mornings yet the use of the Smith Machine provides more stability.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "hamstrings"
     ],
@@ -18,5 +19,6 @@
         "Return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

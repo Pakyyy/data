@@ -2,10 +2,11 @@
     "id": "0083",
     "name": "wide-grip-decline-bench-press",
     "title": "Wide Grip Decline Bench Press",
-    "alias": "",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -22,5 +23,6 @@
         "Pause for a moment and then lower the bar to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

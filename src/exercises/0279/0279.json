@@ -2,11 +2,12 @@
     "id": "0279",
     "name": "seated-calf-raise-using-machine",
     "title": "Seated Calf Raise using Machine",
-    "alias": "",
     "primer": "This is one of the simplest and most effective exercises for the calves.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],
@@ -18,5 +19,6 @@
         "Pause for a moment and then return to the starting position.",
         "Note: Practice slow and precise movements with this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

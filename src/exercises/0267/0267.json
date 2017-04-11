@@ -2,10 +2,11 @@
     "id": "0267",
     "name": "medicine-ball-biceps-curl-on-stability-ball",
     "title": "Medicine Ball Biceps Curl on Stability Ball",
-    "alias": "",
     "primer": "This exercise combines a new technology, Stability Ball, with a old piece of fitness equipment, the Medicine Ball.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "core",
         "forearm"
@@ -20,5 +21,6 @@
         "Return to starting position and switch arms.",
         "Note: Grasp the Medicine Ball with your fingers spread wide to balance the ball."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

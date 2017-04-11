@@ -2,10 +2,11 @@
     "id": "0045",
     "name": "bent-arm-pullover",
     "title": "Bent Arm Pullover",
-    "alias": "",
     "primer": "This is an exercise for chest, triceps, shoulders and lats strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "lats",
         "shoulders",
@@ -22,5 +23,6 @@
         "Pull the bar back up to chest height in a slow controlled manner and return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0121",
     "name": "walking-lunges",
     "title": "Walking Lunges",
-    "alias": "",
     "primer": "A walking lunge gives you the benefit of lunges plus core muscle training from the constant motion.",
     "type": "isolation",
-    "primary": "hamstrings",
+    "primary": [
+        "hamstrings"
+    ],
     "secondary": [
         "quadriceps",
         "glutes",
@@ -24,5 +25,6 @@
     ],
     "tips": [
         "Practice the walking lunge without any weights until you are comfortable with the movements."
-    ]
+    ],
+    "references": []
 }

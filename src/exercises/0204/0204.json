@@ -2,11 +2,12 @@
     "id": "0204",
     "name": "triceps-kickback-with-dumbbell",
     "title": "Triceps Kickback with Dumbbell",
-    "alias": "",
     "primer": "This along with the Triceps Push Down is one of the most beneficial exercises for the arms.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -18,5 +19,6 @@
         "Switch arms and repeat.",
         "Note: Keep your elbow close to your body during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

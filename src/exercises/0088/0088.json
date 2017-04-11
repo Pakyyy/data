@@ -2,10 +2,11 @@
     "id": "0088",
     "name": "gironda-sternum-chins",
     "title": "Gironda Sternum Chins",
-    "alias": "",
     "primer": "This is an exercise for lats, biceps and middle back strengthening; which is similar t the basic chin up but focusses more on lats.",
     "type": "isolation",
-    "primary": "lats",
+    "primary": [
+        "lats"
+    ],
     "secondary": [
         "biceps",
         "middle back"
@@ -24,5 +25,6 @@
     ],
     "tips": [
         "Ensure you contract your core and back muscles through out this exercise in order to prevent injury and maximise the effectiveness of this exercise."
-    ]
+    ],
+    "references": []
 }

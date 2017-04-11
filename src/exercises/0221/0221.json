@@ -2,10 +2,11 @@
     "id": "0221",
     "name": "cross-body-hammer-curl-with-dumbbell",
     "title": "Cross Body Hammer Curl with Dumbbell",
-    "alias": "",
     "primer": "This exercise targets the biceps using a crossing motion rather than a standard curl.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -18,5 +19,6 @@
         "Bring the top of dumbbell up to and touching the shoulder.",
         "Slowly with a controlled manner, lower the dumbbell back to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

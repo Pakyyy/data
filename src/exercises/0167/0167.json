@@ -2,11 +2,12 @@
     "id": "0167",
     "name": "standing-triceps-extension",
     "title": "Standing Triceps Extension",
-    "alias": "",
     "primer": "This exercise works the triceps by reaching behind your neck.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -17,5 +18,6 @@
         "Slowly raise the dumbbell back up to the starting position.",
         "Note:Keep your elbows close to your head during the exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0199",
     "name": "one-arm-low-pulley-triceps-extension-with-cable",
     "title": "One Arm Low-Pulley Triceps Extension with Cable",
-    "alias": "",
     "primer": "This exercise uses a cable machine to isolate the triceps.",
     "type": "compound",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -18,5 +19,6 @@
         "Extend your left arm straight up towards the ceiling and then lower it to the starting position.",
         "Repeat and switch arms."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

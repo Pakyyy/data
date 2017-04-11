@@ -2,10 +2,11 @@
     "id": "0058",
     "name": "barbell-front-raise-pullover",
     "title": "Barbell Front Raise and Pullover",
-    "alias": "",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -20,5 +21,6 @@
         "Draw your abs in and keeping your back flat on the bench, raise your arms up in an arc over and behind your head (as if you were performing a reverse pullover).",
         "Slowly return the barbell to the starting position on your thighs."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

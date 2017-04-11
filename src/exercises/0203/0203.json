@@ -2,11 +2,12 @@
     "id": "0203",
     "name": "tate-press-with-dumbbell",
     "title": "Tate Press with Dumbbell",
-    "alias": "",
     "primer": "This is an advanced triceps exercise which moves the muscle differently than other exercises.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -16,5 +17,6 @@
         "Drawing your abs in and keeping your back on the bench, raise the weights to the center of your chest.",
         "Without moving elbows, slowly raise your arms up and out contracting your triceps."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

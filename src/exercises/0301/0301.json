@@ -2,10 +2,11 @@
     "id": "0301",
     "name": "push-up-feet-elevated-2",
     "title": "Push Ups with Feet Elevated",
-    "alias": "",
     "primer": "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "triceps"
@@ -21,5 +22,6 @@
         "With your hands directly under your shoulders, press up from the floor, keeping your back and neck in a straight line so you are looking forward during the entire exercise.",
         "Once your arms are fully extended pause and then with slow controlled movements lower yourself to the floor again."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

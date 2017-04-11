@@ -2,10 +2,11 @@
     "id": "0068",
     "name": "one-arm-bench-press",
     "title": "One Arm Bench Press",
-    "alias": "",
     "primer": "This is an advanced strengthening exercise for the chest and rotator cuff muscles of the shoulder.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -25,5 +26,6 @@
     "tips": [
         "Ensure your hips and back remain in contact with the bench at all times during this exercise.",
         "Start with a lighter weight in order to perfect the exercise technique and then when progressing onto a heavier weight you should be spotted to ensure safety and injury prevention."
-    ]
+    ],
+    "references": []
 }

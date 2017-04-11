@@ -2,10 +2,11 @@
     "id": "0286",
     "name": "ab-rollout-on-knees-with-barbell",
     "title": "Ab Rollout on Knees with Barbell",
-    "alias": "",
     "primer": "This exercise works the abs and lower back and is the proper version of an “ab roller”.",
     "type": "compound",
-    "primary": "abdominals",
+    "primary": [
+        "abdominals"
+    ],
     "secondary": [
         "lower back",
         "shoulders"
@@ -21,5 +22,6 @@
         "Keep your arms straight throughout the exercise.",
         "Roll back up bring the bar under your shoulders and return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

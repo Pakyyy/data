@@ -2,10 +2,11 @@
     "id": "0014",
     "name": "upright-barbell-rows",
     "title": "Upright Barbell Rows",
-    "alias": "",
     "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "biceps",
         "upper back"
@@ -23,5 +24,6 @@
     ],
     "tips": [
         "Do not arch your back when raising the barbell towards your chin."
-    ]
+    ],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0270",
     "name": "ankle-circles",
     "title": "Ankle Circles",
-    "alias": "",
     "primer": "This is the most simple of all exercises for the calves.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -15,5 +16,6 @@
         "Lift your foot off the ground and draw circles clockwise in the air with your toes.",
         "Reverse the direction (counter-clockwise) as well as switch feet."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0053",
     "name": "decline-dumbbell-flys",
     "title": "Decline Dumbbell Fly's",
-    "alias": "",
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders"
     ],
@@ -20,5 +21,6 @@
         "Return to the starting position in a slow controlled manner.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

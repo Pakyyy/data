@@ -2,10 +2,11 @@
     "id": "0152",
     "name": "pile-squat-with-dumbbell",
     "title": "Pile Squat with Dumbbell",
-    "alias": "",
     "primer": "This version of the squat is done with a dumbbell and mimics the action of a pile driver.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings",
         "calves"
@@ -21,5 +22,6 @@
         "With a controlled motion return to starting position.",
         "Notes: Keep your feet planted firmly on the floor throughout this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

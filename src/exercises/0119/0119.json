@@ -2,11 +2,12 @@
     "id": "0119",
     "name": "seated-leg-curl",
     "title": "Seated Leg Curl",
-    "alias": "",
     "primer": "This is an exercise for hamstring strengthening which is similar to the laying leg curls.",
     "type": "isolation",
-    "primary": "hamstrings",
-    "secondary": "",
+    "primary": [
+        "hamstrings"
+    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],
@@ -16,5 +17,6 @@
         "Slowly curl your legs back towards you and hold for a moment.",
         "With controlled movement return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

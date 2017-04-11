@@ -2,11 +2,12 @@
     "id": "0290",
     "name": "crunches-with-legs-on-stability-ball",
     "title": "Crunches with Legs on Stability Ball",
-    "alias": "",
     "primer": "This exercise uses a Stability Ball as the base during your crunches.",
     "type": "isolation",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "stability ball"
     ],
@@ -17,5 +18,6 @@
         "Pause for a moment contracting your abs and then return to the starting position.",
         "Note: Take your time and perform this exercise in a slow controlled manner."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

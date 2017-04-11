@@ -2,11 +2,12 @@
     "id": "0113",
     "name": "side-plank",
     "title": "Side Plank",
-    "alias": "",
     "primer": "This is an exercise for core strengthening.",
     "type": "isolation",
-    "primary": "core",
-    "secondary": "",
+    "primary": [
+        "core"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -16,5 +17,6 @@
         "Hold this position and slowly return back to the starting position.",
         "Repeat on other side."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

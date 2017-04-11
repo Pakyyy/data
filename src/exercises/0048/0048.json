@@ -2,10 +2,11 @@
     "id": "0048",
     "name": "cable-crossover",
     "title": "Cable Crossover",
-    "alias": "",
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders"
     ],
@@ -19,5 +20,6 @@
         "When your hands meet at the midpoint of your chest, hold for a moment.",
         "With a slow controlled motion return to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

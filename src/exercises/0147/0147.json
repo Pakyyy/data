@@ -2,10 +2,11 @@
     "id": "0147",
     "name": "one-leg-squat-with-barbell",
     "title": "One Leg Squat with Barbell",
-    "alias": "",
     "primer": "The One Leg Squat isolates the muscles of the leg for optimal exercise.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "hamstrings",
@@ -25,5 +26,6 @@
         "Switch legs and repeat.",
         "Notes: A pad on the bar or towel on your shoulders can help improve your grip and reduce the discomfort of the bar against your back. Practice the squat without any weight to allow yourself to become comfortable with the movements."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

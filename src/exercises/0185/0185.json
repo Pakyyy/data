@@ -2,11 +2,12 @@
     "id": "0185",
     "name": "old-school-reverse-extensions",
     "title": "Old School Reverse Extensions",
-    "alias": "",
     "primer": "As the name suggests, this is an old classic exercise that hits the triceps hard.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -16,5 +17,6 @@
         "Move your arms beyond your head, keeping them in a straight line.",
         "Bending only your elbows, slowly lower and raise the barbell."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

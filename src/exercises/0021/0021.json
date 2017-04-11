@@ -2,11 +2,12 @@
     "id": "0021",
     "name": "flat-bench-leg-raises",
     "title": "Flat Bench Leg Raises",
-    "alias": "",
     "primer": "This is an exercise for lower abdominal strengthening.",
     "type": "isolation",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -21,5 +22,6 @@
     "tips": [
         "If you are pregnant you should contact your doctor prior to doing this exercise.",
         "Ensure your back stays in contact with the bench at all times during this exercise."
-    ]
+    ],
+    "references": []
 }

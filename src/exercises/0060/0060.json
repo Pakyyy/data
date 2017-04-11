@@ -2,10 +2,11 @@
     "id": "0060",
     "name": "incline-cable-flys",
     "title": "Incline Cable Fly's",
-    "alias": "",
     "primer": "This exercise is an alternative to the Butterfly or Pec Deck, it defines the muscles of the chest.Place an incline bench set at a 45 degree angle between two cable towers.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "biceps",
         "triceps",
@@ -21,5 +22,6 @@
         "With a slight bend in your elbows, squeeze your chest and pull the cables in an arc so they meet together in the middle of your chest.",
         "Hold for a moment and then slowly lower your hands back to starting position at along the same arc."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0130",
     "name": "squats-using-dumbbells",
     "title": "Squats using Dumbbells",
-    "alias": "",
     "primer": "This is a great overall exercise for the lower body that uses dumbbells.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings",
         "calves"
@@ -22,5 +23,6 @@
         "Pause in the downward position and slowly return upright to the starting position.",
         "Note: Practicing the squat without any weight will allow you to become comfortable with the movements."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

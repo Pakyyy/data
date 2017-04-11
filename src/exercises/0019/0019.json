@@ -2,10 +2,11 @@
     "id": "0019",
     "name": "ball-wall-circles",
     "title": "Ball Wall Circles",
-    "alias": "",
     "primer": "This is an exercise to strengthen and stretch the rotator cuff muscles or shoulder muscles.",
     "type": "compound",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "biceps",
         "triceps"
@@ -23,5 +24,6 @@
     "tips": [
         "Maintain a good upright posture throughout this exercise.",
         "Ensure the swiss ball is inflated enough to allow for smooth rhythmical circles."
-    ]
+    ],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0182",
     "name": "lying-triceps-extension-across-face-with-dumbbell",
     "title": "Lying Triceps Extension Across Face with Dumbbell",
-    "alias": "",
     "primer": "This is an advanced Triceps exercise and should be avoided by beginners.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -19,5 +20,6 @@
         "Slowly raise the dumbbell back to the starting position and repeat with your other arm.",
         "Note: Do not perform this exercise if your arms are fatigued, as you are lifting the weight over your face."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

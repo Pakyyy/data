@@ -2,11 +2,12 @@
     "id": "0180",
     "name": "lying-close-grip-triceps-press-to-chin-with-barbell",
     "title": "Lying Close Grip Triceps Press to Chin with Barbell",
-    "alias": "",
     "primer": "This exercise is a classic for building the triceps.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -17,5 +18,6 @@
         "Slowly lower the bar in an arc towards your chin.",
         "Return the bar to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

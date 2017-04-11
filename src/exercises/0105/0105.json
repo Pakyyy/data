@@ -2,10 +2,11 @@
     "id": "0105",
     "name": "supermans",
     "title": "Supermans",
-    "alias": "",
     "primer": "This is an excellent exercise and a stretch for the lower back and core muscles.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "core"
     ],
@@ -18,5 +19,6 @@
         "Return to the starting position on the floor.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

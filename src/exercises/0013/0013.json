@@ -2,10 +2,11 @@
     "id": "0013",
     "name": "smith-machine-upright-row",
     "title": "Smith Machine Upright Row",
-    "alias": "",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "biceps",
         "upper back"
@@ -22,5 +23,6 @@
     ],
     "tips": [
         "Ensure you do not arch your back when pulling the bar up towards your chin."
-    ]
+    ],
+    "references": []
 }

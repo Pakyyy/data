@@ -2,10 +2,11 @@
     "id": "0087",
     "name": "pull-ups",
     "title": "Pull Ups",
-    "alias": "",
     "primer": "This is an exercise in lats, biceps and middle back strengthening.",
     "type": "isolation",
-    "primary": "lats",
+    "primary": [
+        "lats"
+    ],
     "secondary": [
         "middle back",
         "biceps"
@@ -22,5 +23,6 @@
         "<h3> Tip</h3>",
         "Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

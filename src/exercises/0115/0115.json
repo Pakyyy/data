@@ -2,10 +2,11 @@
     "id": "0115",
     "name": "dumbbell-lunges",
     "title": "Dumbbell Lunges",
-    "alias": "",
     "primer": "This is an exercise for whole leg but mainly hamstring strengthening.",
     "type": "isolation",
-    "primary": "hamstrings",
+    "primary": [
+        "hamstrings"
+    ],
     "secondary": [
         "glutes",
         "quadriceps",
@@ -24,5 +25,6 @@
     ],
     "tips": [
         "Ensure not maintain your front knee at a 90 degree angle, in order to prevent knee injury."
-    ]
+    ],
+    "references": []
 }

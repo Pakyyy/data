@@ -2,10 +2,11 @@
     "id": "0172",
     "name": "tricep-dips-using-body-weight",
     "title": "Tricep Dips using Body Weight",
-    "alias": "",
     "primer": "This classic exercise uses the weight of your own body to work your triceps.",
     "type": "compound",
-    "primary": "triceps",
+    "primary": [
+        "triceps"
+    ],
     "secondary": [
         "shoulders",
         "chest"
@@ -19,5 +20,6 @@
         "Slowly raise yourself back to the starting position.",
         "Note: Keep your abs drawn in and your body straight during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

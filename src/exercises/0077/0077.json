@@ -2,10 +2,11 @@
     "id": "0077",
     "name": "push-ups",
     "title": "Push Ups",
-    "alias": "",
     "primer": "This exercise is the main strengthening exercise when wanting to strengthen ones chest, biceps and triceps as well as core muscles.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -22,5 +23,6 @@
         "Exhale out as you lower your body back to the ground.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

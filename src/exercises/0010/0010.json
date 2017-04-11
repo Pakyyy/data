@@ -2,10 +2,11 @@
     "id": "0010",
     "name": "front-raises",
     "title": "Front Raises",
-    "alias": "",
     "primer": "This is an exercise for shoulder, chest and forearm strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "forearm",
         "chest"
@@ -23,5 +24,6 @@
     ],
     "tips": [
         "Do not perform this exercise if you have any shoulder, elbow or wrist pain."
-    ]
+    ],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0093",
     "name": "underhand-pull-downs",
     "title": "Underhand Pull downs",
-    "alias": "",
     "primer": "This is an exercise for lats and biceps strengthening.",
     "type": "isolation",
-    "primary": "lats",
+    "primary": [
+        "lats"
+    ],
     "secondary": [
         "biceps"
     ],
@@ -18,5 +19,6 @@
         "Slowly return the bar to the starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

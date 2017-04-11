@@ -2,11 +2,12 @@
     "id": "0291",
     "name": "crunches",
     "title": "Crunches",
-    "alias": "",
     "primer": "",
     "type": "isolation",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -18,5 +19,6 @@
         "Hold the position for a moment and then lower to the starting position.",
         "Note: Keep your hips straight and your lower back against the floor during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

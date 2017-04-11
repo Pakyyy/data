@@ -2,10 +2,11 @@
     "id": "0175",
     "name": "jm-press",
     "title": "JM Press",
-    "alias": "",
     "primer": "This is an advanced exercise used by bodybuilders and power lifters to build explosive power in the triceps muscle.",
     "type": "compound",
-    "primary": "triceps",
+    "primary": [
+        "triceps"
+    ],
     "secondary": [
         "shoulders"
     ],
@@ -20,5 +21,6 @@
         "With a controlled but rapid pace, push the bar back to starting position.",
         "Note: The bar should move in straight line, up and down."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

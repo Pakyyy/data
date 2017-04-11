@@ -2,11 +2,12 @@
     "id": "0283",
     "name": "standing-calf-raise-with-dumbbell",
     "title": "Standing Calf Raise with Dumbbell",
-    "alias": "",
     "primer": "This version of a Calf Raise uses dumbbells.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -17,5 +18,6 @@
         "Lower your heels and bend your ankles to stretch your calves.",
         "Return to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

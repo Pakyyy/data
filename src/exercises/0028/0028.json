@@ -2,10 +2,11 @@
     "id": "0028",
     "name": "rear-deltoid-row-barbell",
     "title": "Rear Deltoid Row Barbell",
-    "alias": "",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "biceps"
     ],
@@ -20,5 +21,6 @@
         "Hold for a moment than lower the bar in a controlled manner.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

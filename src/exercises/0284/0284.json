@@ -2,11 +2,12 @@
     "id": "0284",
     "name": "air-bike",
     "title": "Air Bike",
-    "alias": "",
     "primer": "This exercise works your abs by raising your arms to meet your legs.",
     "type": "compound",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -20,5 +21,6 @@
         "Continue alternating sides.",
         "Note: Move your arms across your chest, squeezing your abs as you move."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

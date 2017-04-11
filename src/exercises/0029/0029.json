@@ -2,10 +2,11 @@
     "id": "0029",
     "name": "t-bar-rows",
     "title": "T-Bar Rows",
-    "alias": "",
     "primer": "This is an exercise for middle back, biceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "middle back",
+    "primary": [
+        "middle back"
+    ],
     "secondary": [
         "biceps",
         "shoulders"
@@ -23,5 +24,6 @@
     "tips": [
         "Keep your back straight throughout this exercise in order to prevent injury.",
         "Keep your elbows close to your body throughout the exercise."
-    ]
+    ],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0150",
     "name": "one-arm-side-deadlift-with-barbell",
     "title": "One Arm Side Deadlift with Barbell",
-    "alias": "",
     "primer": "This is an advanced exercise that works most of the muscles of the body.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "abdominals",
         "glutes",
@@ -23,5 +24,6 @@
         "Extend your legs slowly as you straighten your body up, drawing in your abs as you rise.",
         "Note: Perform this exercise with an empty bar to become familiar with the movement before adding weights."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

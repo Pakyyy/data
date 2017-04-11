@@ -2,10 +2,11 @@
     "id": "0300",
     "name": "cuban-dumbbell-press",
     "title": "Cuban Dumbbell Press",
-    "alias": "",
     "primer": "This is a three point exercise for shoulder and middle back strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "middle back"
     ],
@@ -23,5 +24,6 @@
     "tips": [
         "Start with a lower weight in order to perfect the technique.",
         "Maintain a good upright posture through out the exercise."
-    ]
+    ],
+    "references": []
 }

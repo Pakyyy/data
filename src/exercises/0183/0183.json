@@ -2,10 +2,11 @@
     "id": "0183",
     "name": "lying-triceps-press-with-barbell",
     "title": "Lying Triceps Press with Barbell",
-    "alias": "",
     "primer": "This is another classic exercise for building the triceps.",
     "type": "isolation",
-    "primary": "triceps",
+    "primary": [
+        "triceps"
+    ],
     "secondary": [
         "chest"
     ],
@@ -20,5 +21,6 @@
         "Return the bar to the starting position.",
         "Note: Keep your arms straight throughout this exercise moving only your elbows."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

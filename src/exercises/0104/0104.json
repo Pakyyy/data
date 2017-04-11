@@ -2,10 +2,11 @@
     "id": "0104",
     "name": "back-extension-stability-ball",
     "title": "Back Extension on Stability Ball",
-    "alias": "",
     "primer": "This exercise provides flexibility as it strengthens the muscles of the back and core.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "core",
         "hamstrings"
@@ -19,5 +20,6 @@
         "Slowly return your chest to the ball.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

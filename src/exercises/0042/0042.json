@@ -2,10 +2,11 @@
     "id": "0042",
     "name": "bench-press",
     "title": "Bench Press",
-    "alias": "",
     "primer": "This is an exercise for the chest.",
     "type": "compound",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps"
     ],
@@ -21,7 +22,7 @@
         "Raise the bar till your arms are fully extended and your elbows are locked.",
         "Return to starting position."
     ],
-    "tips": "",
+    "tips": [],
     "references": [
         "https://youtu.be/LnhpKTXeIeg"
     ]

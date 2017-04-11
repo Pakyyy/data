@@ -2,10 +2,11 @@
     "id": "0250",
     "name": "wide-grip-standing-biceps-curl-with-barbell",
     "title": "Wide Grip Standing Biceps Curl with Barbell",
-    "alias": "",
     "primer": "This is a wide grip version of a biceps curl.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -21,5 +22,6 @@
         "Pause for moment and then return to the starting position.",
         "Note: Lean up against a wall or post if you have problems keeping from swinging."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

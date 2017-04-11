@@ -2,10 +2,11 @@
     "id": "0096",
     "name": "v-bar-pull-down",
     "title": "V Bar Pull Down",
-    "alias": "",
     "primer": "This is an exercise for lats, biceps and middle back strengthening.",
     "type": "isolation",
-    "primary": "lats",
+    "primary": [
+        "lats"
+    ],
     "secondary": [
         "middle back",
         "biceps"
@@ -20,5 +21,6 @@
         "Pause for a moment after touching the chest and then slowly return the bar to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

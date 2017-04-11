@@ -2,10 +2,12 @@
     "id": "0260",
     "name": "biceps-curl-with-overhead-extension-using-dumbbells-on-stability-ball",
     "title": "Biceps Curl with Overhead Extension using Dumbbells on Stability Ball",
-    "alias": "",
     "primer": "This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise",
     "type": "isolation",
-    "primary": ["triceps", "biceps"],
+    "primary": [
+        "triceps",
+        "biceps"
+    ],
     "secondary": [
         "forearm",
         "should"
@@ -22,5 +24,6 @@
         "Return to starting position and repeat arms.",
         "Note: Work with a Personal Trainer or Instructor to learn how to safely perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

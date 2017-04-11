@@ -2,10 +2,11 @@
     "id": "0100",
     "name": "smith-machine-dead-lifts",
     "title": "Smith Machine Dead Lifts",
-    "alias": "",
     "primer": "This is the same as a Dead Lift but the Smith Machine allows for better control of the weight.",
     "type": "isolation",
-    "primary": "lower back",
+    "primary": [
+        "lower back"
+    ],
     "secondary": [
         "hamstrings",
         "calves"
@@ -20,5 +21,6 @@
         "Straighten your back as you hold the bar at arm’s length.",
         "Bend over again lowering the bar to just above the floor."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

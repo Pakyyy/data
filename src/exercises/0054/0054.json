@@ -2,10 +2,11 @@
     "id": "0054",
     "name": "chest-dips",
     "title": "Chest Dips",
-    "alias": "",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -23,5 +24,6 @@
     ],
     "tips": [
         "Ensure not to lock your elbows once you have raised yourself up."
-    ]
+    ],
+    "references": []
 }

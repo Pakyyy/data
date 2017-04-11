@@ -2,11 +2,12 @@
     "id": "0194",
     "name": "seated-triceps-press-with-dumbbell",
     "title": "Seated Triceps Press with Dumbbell",
-    "alias": "",
     "primer": "This exercise uses a single dumbbell held between both hands to work the triceps.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -17,5 +18,6 @@
         "Lower the dumbbell in an arc from above your head to behind your back.",
         "Slowly return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

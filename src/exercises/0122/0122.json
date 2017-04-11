@@ -2,10 +2,11 @@
     "id": "0122",
     "name": "barbell-squat",
     "title": "Barbell Squat",
-    "alias": "",
     "primer": "",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings"
     ],
@@ -20,5 +21,6 @@
         "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
         "Pause in the downward position and slowly return upright to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

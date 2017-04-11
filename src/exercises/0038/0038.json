@@ -2,10 +2,11 @@
     "id": "0038",
     "name": "one-arm-dumbbell-shoulder-press",
     "title": "One Arm Dumbbell Shoulder Press",
-    "alias": "",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "triceps",
         "biceps"
@@ -20,5 +21,6 @@
         "Lower in a controlled manner and return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

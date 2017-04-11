@@ -2,10 +2,11 @@
     "id": "0137",
     "name": "step-ups-with-dumbbells",
     "title": "Step Ups with Dumbbells",
-    "alias": "",
     "primer": "This exercise builds coordination as well as muscle.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "hamstrings"
@@ -21,5 +22,6 @@
         "Repeat starting with your right leg.",
         "Note: Use a lighter weight until you are used to the motion of this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

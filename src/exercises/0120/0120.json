@@ -2,11 +2,12 @@
     "id": "0120",
     "name": "standing-leg-curls",
     "title": "Standing Leg Curls",
-    "alias": "",
     "primer": "This is an exercise for hamstring strengthening.",
     "type": "isolation",
-    "primary": "hamstrings",
-    "secondary": "",
+    "primary": [
+        "hamstrings"
+    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],
@@ -16,5 +17,6 @@
         "Raise your foot up towards your back slowly.",
         "Return to the starting position and chance legs."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

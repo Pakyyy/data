@@ -2,11 +2,12 @@
     "id": "0292",
     "name": "decline-crunch",
     "title": "Decline Crunch",
-    "alias": "",
     "primer": "Using a decline crunch allows you keep your legs steady and isolate all of the abdominal muscles.",
     "type": "isolation",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -18,5 +19,6 @@
         "Pause for a moment and then return to the starting position.",
         "Note: Use the full range of movement in this exercise for the optimal results."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

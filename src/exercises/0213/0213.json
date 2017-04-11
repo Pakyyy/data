@@ -2,10 +2,11 @@
     "id": "0213",
     "name": "alternating-hammer-curl-with-dumbbell",
     "title": "Alternating Hammer Curl with Dumbbell",
-    "alias": "",
     "primer": "This exercise uses a hammering motion to isolate the biceps.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -21,5 +22,6 @@
         "Lower your arm and repeat with your right arm.",
         "Note: Do not turn your wrists during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

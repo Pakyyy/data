@@ -2,11 +2,12 @@
     "id": "0293",
     "name": "decline-oblique-crunch",
     "title": "Decline Oblique Crunch",
-    "alias": "",
     "primer": "This version of a decline crunch isolates the oblique muscles of the abs.",
     "type": "compound",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -19,5 +20,6 @@
         "Pause for a moment and then return to the starting position.",
         "Lay fully back and repeat with your right elbow to your left knee."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

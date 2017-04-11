@@ -2,10 +2,11 @@
     "id": "0126",
     "name": "smith-machine-hack-squat",
     "title": "Smith Machine Hack Squat",
-    "alias": "",
     "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps, or thigh muscles, while using the Smith Machine.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings",
         "glutes"
@@ -23,5 +24,6 @@
         "Slowly raise yourself up to starting position.",
         "Note: Your knees should be moving in the same direction as your feet."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

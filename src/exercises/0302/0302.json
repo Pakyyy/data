@@ -2,12 +2,15 @@
     "id": "0302",
     "name": "smith-machine-incline-bench-press",
     "title": "Smith Machine Incline Bench Press",
-    "alias": "",
     "primer": "",
     "type": "",
-    "primary": "chest",
-    "secondary": "",
-    "equipment": ["smith machine"],
+    "primary": [
+        "chest"
+    ],
+    "secondary": [],
+    "equipment": [
+        "smith machine"
+    ],
     "steps": [
         "This is an exercise for chest, shoulder and triceps strengthening.",
         "Place an incline bench at a 45 degree angle in the middle of the Smith Machine.",
@@ -16,5 +19,6 @@
         "Unlock the bar and slowly lower the weight to your chest, do not bounce the bar on your chest.",
         "With slow controlled movements, raise the bar back to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

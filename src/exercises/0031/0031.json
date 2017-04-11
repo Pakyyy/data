@@ -2,11 +2,12 @@
     "id": "0031",
     "name": "incline-shoulder-press-dumbbell",
     "title": "Incline Shoulder Press Dumbbell",
-    "alias": "",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
-    "secondary": "",
+    "primary": [
+        "shoulders"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -16,5 +17,6 @@
         "With your abs drawn in, raise the dumbbells as high as you are able above your shoulders.",
         "Lower the dumbbells in a slow controlled manner to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0116",
     "name": "flutter-kicks",
     "title": "Flutter Kicks",
-    "alias": "",
     "primer": "This is an exercise for quadriceps and hamstring strengthening.",
     "type": "isolation",
-    "primary": "hamstrings",
+    "primary": [
+        "hamstrings"
+    ],
     "secondary": [
         "quadriceps"
     ],
@@ -19,5 +20,6 @@
         "Kick each back and up while keeping your hips on the bench.",
         "Alternate kicking each leg."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

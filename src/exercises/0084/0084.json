@@ -2,10 +2,11 @@
     "id": "0084",
     "name": "incline-chest-press",
     "title": "Incline Chest Press",
-    "alias": "",
     "primer": "This exercise is for strengthening the upper chest and is preferred among beginners as it provides support and control.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -18,5 +19,6 @@
         "Slowly press the handles forward until your hands are fully extended, do not lock your elbows.",
         "Pause for a moment and then with a controlled movement lower your hands back to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

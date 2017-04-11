@@ -2,10 +2,11 @@
     "id": "0145",
     "name": "narrow-stance-hack-squats",
     "title": "Narrow Stance Hack Squats",
-    "alias": "",
     "primer": "Like the Hack Squat, this exercise works the muscles of the leg.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings",
         "calves"
@@ -22,5 +23,6 @@
         "Lower your body to a squatting position so your knees are bent as if you were sitting down.",
         "Return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

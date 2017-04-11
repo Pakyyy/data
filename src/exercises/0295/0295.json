@@ -2,11 +2,12 @@
     "id": "0295",
     "name": "stability-ball-abdominal-crunch",
     "title": "Stability Ball Abdominal Crunch",
-    "alias": "",
     "primer": "This crunch uses a Stability Ball.",
     "type": "isolation",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -19,5 +20,6 @@
         "Pause for a moment and then lower yourself to the starting position.",
         "Note: For best results, use a full range of motion in this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

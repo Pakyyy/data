@@ -2,10 +2,11 @@
     "id": "0079",
     "name": "straight-arm-dumbbell-pullover",
     "title": "Straight Arm Dumbbell Pullover",
-    "alias": "",
     "primer": "This is an exercise for chest and shoulder strengthening which mainly targets the rotator cuff muscles.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "lats",
@@ -22,5 +23,6 @@
         "Return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

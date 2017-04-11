@@ -2,10 +2,11 @@
     "id": "0007",
     "name": "front-barbell-raises",
     "title": "Front Barbell Raises",
-    "alias": "",
     "primer": "An exercise for shoulder, chest and forearm strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "chest",
         "forerm"
@@ -22,5 +23,6 @@
     "tips": [
         "Maintain a good upright posture when performing this exercise, do not sway or arch your back.",
         "Do not perform this exercise if you have shoulder pain."
-    ]
+    ],
+    "references": []
 }

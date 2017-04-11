@@ -2,10 +2,11 @@
     "id": "0059",
     "name": "hammer-grip-incline-bench-press",
     "title": "Hammer Grip Incline Bench Press",
-    "alias": "",
     "primer": "This is an advanced exercise for strengthening the chest, triceps and shoulders.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "triceps"
@@ -21,5 +22,6 @@
         "Extend your arms fully and press the dumbbells up.",
         "Slowly return the dumbbells to the starting position at the sides of your chest."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

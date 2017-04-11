@@ -2,11 +2,12 @@
     "id": "0142",
     "name": "leg-extensions",
     "title": "Leg Extensions",
-    "alias": "",
     "primer": "This exercise is a staple for building strong legs.",
     "type": "isolation",
-    "primary": "quadriceps",
-    "secondary": "",
+    "primary": [
+        "quadriceps"
+    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],
@@ -17,5 +18,6 @@
         "Hold for a moment and then with controlled movements return to the starting position.",
         "Note: Use controlled movements for this exercise, do not swing the weight up."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

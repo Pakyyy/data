@@ -2,10 +2,11 @@
     "id": "0249",
     "name": "two-arm-preacher-curl-with-dumbbell",
     "title": "Two-Arm Preacher Curl with Dumbbell",
-    "alias": "",
     "primer": "This version of a Preacher Curl uses a special bench and dumbbells.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -21,5 +22,6 @@
         "Pause for a moment and then lower the weights back to starting position.",
         "Note: Perform this exercise in a slow controlled manner for best results."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

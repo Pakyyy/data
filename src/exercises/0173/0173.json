@@ -2,11 +2,12 @@
     "id": "0173",
     "name": "one-arm-triceps-extension-with-dumbbell",
     "title": "One Arm Triceps Extension with Dumbbell",
-    "alias": "",
     "primer": "This exercise uses a dumbbell to work each arm individually.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -16,5 +17,6 @@
         "Slowly extend your arm straight up over your head and slowly return to the starting position.",
         "Note: Place your free hand across your chest to help steady yourself during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

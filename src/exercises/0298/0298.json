@@ -2,10 +2,11 @@
     "id": "0298",
     "name": "bent-over-row-with-barbell",
     "title": "Bent Over Row with Barbell",
-    "alias": "",
     "primer": "This exercise focuses on the middle back.",
     "type": "compound",
-    "primary": "middle back",
+    "primary": [
+        "middle back"
+    ],
     "secondary": [
         "biceps"
     ],
@@ -21,5 +22,6 @@
         "Pause for a moment than return to starting position.",
         "Note: Keep your head up and your back straight while performing"
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

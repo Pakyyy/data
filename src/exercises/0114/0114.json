@@ -2,10 +2,11 @@
     "id": "0114",
     "name": "barbell-lunges",
     "title": "Barbell Lunges",
-    "alias": "",
     "primer": "This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.",
     "type": "isolation",
-    "primary": "hamstrings",
+    "primary": [
+        "hamstrings"
+    ],
     "secondary": [
         "glutes",
         "quadriceps",
@@ -24,5 +25,6 @@
     ],
     "tips": [
         "Your front knee should never go past the toes of that foot and should remain at a 90 degree angle in order, to prevent knee injury."
-    ]
+    ],
+    "references": []
 }

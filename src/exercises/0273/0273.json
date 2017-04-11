@@ -2,11 +2,12 @@
     "id": "0273",
     "name": "calves-press-on-leg-machine",
     "title": "Calves Press on Leg Machine",
-    "alias": "",
     "primer": "This exercise uses a Leg Press Machine to work your calves.",
     "type": "isolation",
-    "primary": "calves",
-    "secondary": "",
+    "primary": [
+        "calves"
+    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],
@@ -18,5 +19,6 @@
         "Perform theses movements slowly for maximum benefit.",
         "Note: Use a lighter weight on this exercise than you are able to lift with a leg press until you are familiar with the movements."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

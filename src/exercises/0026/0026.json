@@ -2,10 +2,11 @@
     "id": "0026",
     "name": "reverse-grips-bent-over-barbell-rows",
     "title": "Reverse Grips Bent Over Barbell Rows",
-    "alias": "",
     "primer": "This is an exercise for middle back and biceps strengthening.",
     "type": "isolation",
-    "primary": "middle back",
+    "primary": [
+        "middle back"
+    ],
     "secondary": [
         "biceps"
     ],
@@ -21,5 +22,6 @@
     ],
     "tips": [
         "Ensure that the weight of the barbell is evenly distributed through both hands."
-    ]
+    ],
+    "references": []
 }

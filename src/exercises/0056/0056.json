@@ -2,10 +2,11 @@
     "id": "0056",
     "name": "dumbbell-flys",
     "title": "Dumbbell Flys",
-    "alias": "",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "triceps"
@@ -23,5 +24,6 @@
     ],
     "tips": [
         "Ensure your back and hips remain in contact with the bench at all times during this exercise."
-    ]
+    ],
+    "references": []
 }

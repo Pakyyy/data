@@ -2,11 +2,12 @@
     "id": "0234",
     "name": "lying-high-bench-biceps-curl-with-barbell",
     "title": "Lying High Bench Biceps Curl with Barbell",
-    "alias": "",
     "primer": "",
     "type": "isolation",
-    "primary": "biceps",
-    "secondary": "",
+    "primary": [
+        "biceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -17,5 +18,6 @@
         "Extending your arms to the floor, curl your arms back towards your head in a slight arc, so your biceps touch your forearm.",
         "Slowly return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0259",
     "name": "biceps-curl-with-deadlift-with-barbell",
     "title": "Bicep Curl with Deadlift with Barbell",
-    "alias": "",
     "primer": "This exercise combines a bicep curl with a deadlift.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "calves",
         "lower back",
@@ -24,5 +25,6 @@
         "Return the starting position and repeat.",
         "Note: Performing this exercise in front of a mirror may help you spot and correct your form."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

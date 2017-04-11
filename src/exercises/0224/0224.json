@@ -2,10 +2,11 @@
     "id": "0224",
     "name": "biceps-curl-with-dumbbell",
     "title": "Biceps Curl with Dumbbell",
-    "alias": "",
     "primer": "This version of a biceps curl uses both arms at the same time.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -20,5 +21,6 @@
         "In a slow controlled manner, lower your arms to the starting position.",
         "Note: Do not swing your body as you perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

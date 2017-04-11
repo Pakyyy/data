@@ -2,10 +2,11 @@
     "id": "0016",
     "name": "dumbbell-upright-rows",
     "title": "Dumbbell Upright Rows",
-    "alias": "",
     "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "biceps",
         "upper back"
@@ -25,5 +26,6 @@
         "Do not arch your back when raising the dumbbells towards your shoulders.",
         "Ensure the dumbbells are held close to your body throughout the exercise.",
         "Do not perform this exercise if you have wrist, shoulder or elbow pain."
-    ]
+    ],
+    "references": []
 }

@@ -2,11 +2,12 @@
     "id": "0178",
     "name": "low-triceps-extension-with-cable",
     "title": "Low Triceps Extension with Cable",
-    "alias": "",
     "primer": "This exercise is done while lying on a seated row station.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -17,5 +18,6 @@
         "Slowly extend your arms upward squeezing your triceps.",
         "Return to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

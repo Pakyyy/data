@@ -2,11 +2,12 @@
     "id": "0289",
     "name": "cross-body-crunch",
     "title": "Cross Body Crunch",
-    "alias": "",
     "primer": "This version of the crunch works both the upper and lower portion of the abs.",
     "type": "compound",
-    "primary": "abdominals",
-    "secondary": "",
+    "primary": [
+        "abdominals"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -17,5 +18,6 @@
         "Return to the starting position and repeat with alternate arms and legs.",
         "Note: Contract your abs as you twist during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

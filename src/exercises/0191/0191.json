@@ -2,11 +2,12 @@
     "id": "0191",
     "name": "seated-one-arm-triceps-extension-with-dumbbell",
     "title": "Seated One Arm Triceps Extension with Dumbbell",
-    "alias": "",
     "primer": "This exercise uses a kickback movement to work the triceps in each arm individually.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -17,5 +18,6 @@
         "Press your arm back in arc.",
         "Return to the starting position repeat and switch arms."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

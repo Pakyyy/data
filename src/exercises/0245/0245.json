@@ -2,11 +2,12 @@
     "id": "0245",
     "name": "spider-curl-with-barbell",
     "title": "Spider Curl with Barbell",
-    "alias": "",
     "primer": "",
     "type": "isolation",
-    "primary": "biceps",
-    "secondary": "",
+    "primary": [
+        "biceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -19,5 +20,6 @@
         "Slowly lower the bar to the starting position.",
         "Note: Use a low weight to get used to the motion of this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0244",
     "name": "seated-inner-biceps-curl-with-dumbbell",
     "title": "Seated Inner Biceps Curl with Dumbbell",
-    "alias": "",
     "primer": "This exercise works the inner biceps.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -19,5 +20,6 @@
         "Curl your arms up and out, turning your palms up and out as you lift.",
         "Slowly lower the dumbbells to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

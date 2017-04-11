@@ -2,10 +2,11 @@
     "id": "0112",
     "name": "one-legged-cable-kickback",
     "title": "One Legged Cable Kickback",
-    "alias": "",
     "primer": "This is an exercise for gluts and hamstring strengthening.",
     "type": "isolation",
-    "primary": "glutes",
+    "primary": [
+        "glutes"
+    ],
     "secondary": [
         "hamstrings"
     ],
@@ -18,5 +19,6 @@
         "Slowly kick your ankle back in and arc as high as you are able to.",
         "Return to starting position and switch ankles."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

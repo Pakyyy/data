@@ -2,10 +2,11 @@
     "id": "0156",
     "name": "thigh-abductor",
     "title": "Thigh Abductor",
-    "alias": "",
     "primer": "This exercise targets and works the muscles of the outer thigh.",
     "type": "isolation",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings"
     ],
@@ -18,5 +19,6 @@
         "Slowly return to the starting position and repeat.",
         "Note: Maintain the same level of resistance throughout this exercise for best results."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

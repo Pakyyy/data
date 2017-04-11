@@ -2,11 +2,12 @@
     "id": "0177",
     "name": "kneeling-triceps-extension-with-cable-2",
     "title": "Kneeling Triceps Extension with Cable",
-    "alias": "",
     "primer": "Kneeling allows you to isolate your triceps more effectively.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -17,5 +18,6 @@
         "With your elbows and forearms above your head, push the bar down in an arc so that your forearms are touching the bench.",
         "Note: Keep your abs drawn in and your back straight as you perform this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

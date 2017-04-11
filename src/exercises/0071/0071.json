@@ -2,11 +2,12 @@
     "id": "0071",
     "name": "one-arm-flat-bench-flys",
     "title": "One Arm Flat Bench Fly’s",
-    "alias": "",
     "primer": "This is an exercise for chest strengthening.",
     "type": "isolation",
-    "primary": "chest",
-    "secondary": "",
+    "primary": [
+        "chest"
+    ],
+    "secondary": [],
     "equipment": [
         "flat bench",
         "dumbbell"
@@ -17,5 +18,6 @@
         "Once the dumbbell is at the middle of your chest line, slowly lower is along the same path to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

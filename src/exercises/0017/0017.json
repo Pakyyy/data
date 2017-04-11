@@ -2,10 +2,11 @@
     "id": "0017",
     "name": "bent-over-lateral-cable-raises",
     "title": "Bent-over Lateral Cable Raises",
-    "alias": "",
     "primer": "This is an exercise for shoulder, trapezius and middle back strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "trapezius",
         "middle back"
@@ -24,5 +25,6 @@
     "tips": [
         "Start with a lower weight in order to perfect the technique.",
         "Ensure your back remains straight throughout this exercise in order to prevent injury."
-    ]
+    ],
+    "references": []
 }

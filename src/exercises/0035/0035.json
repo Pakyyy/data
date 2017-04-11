@@ -2,11 +2,12 @@
     "id": "0035",
     "name": "seated-rear-lateral-cable-raise",
     "title": "Seated Rear Lateral Cable Raise",
-    "alias": "",
     "primer": "Tis is an exercise for shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
-    "secondary": "",
+    "primary": [
+        "shoulders"
+    ],
+    "secondary": [],
     "equipment": [
         "cable"
     ],
@@ -17,5 +18,6 @@
         "Lower your arms to the starting position in a controlled motion.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

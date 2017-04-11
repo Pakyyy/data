@@ -2,11 +2,12 @@
     "id": "0030",
     "name": "barbell-shrugs",
     "title": "Barbell Shrugs",
-    "alias": "",
     "primer": "This is an exercise for trapezius strengthening.",
     "type": "isolation",
-    "primary": "trapezius",
-    "secondary": "",
+    "primary": [
+        "trapezius"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -20,5 +21,6 @@
     ],
     "tips": [
         "Do not arch your back at all during the exercise."
-    ]
+    ],
+    "references": []
 }

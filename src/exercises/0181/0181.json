@@ -2,11 +2,12 @@
     "id": "0181",
     "name": "lying-triceps-extension-with-dumbbells",
     "title": "Lying Triceps Extension with Dumbbells",
-    "alias": "",
     "primer": "This exercise uses gravity to increase the resistance of the weight.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -17,5 +18,6 @@
         "While keeping your upper arms and elbows still, lower the dumbbell in an arc behind your head.",
         "Slowly raise the dumbbell back to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

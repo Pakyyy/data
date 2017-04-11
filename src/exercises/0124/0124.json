@@ -2,10 +2,11 @@
     "id": "0124",
     "name": "smith-machine-squats",
     "title": "Smith Machine Squats",
-    "alias": "",
     "primer": "This exercise is a variation of a squat using the Smith Machine.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "glutes",
@@ -23,5 +24,6 @@
         "Pause in the downward squatting position and slowly return upright to the starting position.",
         "If needed, a pad on the bar or towel on your shoulders can help improve your grip and the reduce the discomfort of the bar against your back. First practice the squat without any weight to allow yourself to become comfortable with the movements."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

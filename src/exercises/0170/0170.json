@@ -2,11 +2,12 @@
     "id": "0170",
     "name": "decline-ez-bar-triceps-extension-with-barbell",
     "title": "Decline EZ Bar Triceps Extension with Barbell",
-    "alias": "",
     "primer": "This exercise combines a decline bench and a curved bar to more efficiently work the triceps.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -15,5 +16,6 @@
         "Extend your arms so they are perpendicular to your chest, and keeping your elbows in one place, lower the bar toward your head.",
         "Slowly return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0134",
     "name": "step-ups-with-barbell",
     "title": "Step Ups with Barbell",
-    "alias": "",
     "primer": "This exercise builds coordination as well as muscle.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "hamstrings",
         "calves"
@@ -21,5 +22,6 @@
         "Repeat starting with your right leg.",
         "Note: Use a lighter weight until you are used to the motion of this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

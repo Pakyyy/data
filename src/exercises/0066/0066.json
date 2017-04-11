@@ -2,10 +2,11 @@
     "id": "0066",
     "name": "machine-bench-press",
     "title": "Machine Bench Press",
-    "alias": "",
     "primer": "This is an exercise for chest, biceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -19,5 +20,6 @@
         "Press out, extending your arms as far as possible in a steady motion.",
         "Pause for a moment and then return slowly to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

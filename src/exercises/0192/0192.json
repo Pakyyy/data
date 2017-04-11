@@ -2,11 +2,12 @@
     "id": "0192",
     "name": "seated-two-arm-triceps-extension-with-dumbbell",
     "title": "Seated Two-Arm Triceps Extension with Dumbbell",
-    "alias": "",
     "primer": "This exercise is the two handed version of seated triceps extension.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "dumbbell"
     ],
@@ -17,5 +18,6 @@
         "Press your arm back in arc towards your back.",
         "Return to the starting position repeat and switch arms."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

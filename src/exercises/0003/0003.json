@@ -2,10 +2,11 @@
     "id": "0003",
     "name": "seated-shoulder-press-machine",
     "title": "Seated Shoulder Press Machine",
-    "alias": "",
     "primer": "This is an exercise for the shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "triceps"
     ],
@@ -19,5 +20,6 @@
     ],
     "tips": [
         "Ensure that the seat and bar have been adjusted for optimal posture."
-    ]
+    ],
+    "references": []
 }

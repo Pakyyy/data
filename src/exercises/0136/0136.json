@@ -2,10 +2,11 @@
     "id": "0136",
     "name": "squat-to-bench-with-dumbbells",
     "title": "Squat to Bench with Dumbbells",
-    "alias": "",
     "primer": "This variation of a squat uses a bench to remind you how far down to squat.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "calves",
         "hamstrings",
@@ -24,5 +25,6 @@
         "Pause in the downward position and slowly return upright to the starting position.",
         "Practice the squat without any weight to allow yourself to become comfortable with the movements. Do not sit on the bench during the exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

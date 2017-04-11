@@ -2,10 +2,11 @@
     "id": "0034",
     "name": "internal-cable-rotation",
     "title": "Internal Cable Rotation",
-    "alias": "",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": "compound",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "biceps"
     ],
@@ -21,5 +22,6 @@
     ],
     "tips": [
         "Ensure your back is straight throughout the exercise."
-    ]
+    ],
+    "references": []
 }

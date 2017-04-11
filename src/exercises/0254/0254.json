@@ -2,10 +2,11 @@
     "id": "0254",
     "name": "one-arm-biceps-curl-with-olympic-bar-or-barbell",
     "title": "One Arm Bicep Curl with Olympic Bar or Barbell",
-    "alias": "",
     "primer": "This is an advanced exercise for building stability and the muscles of the arms.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -20,5 +21,6 @@
         "Slowly lower the bar and change arms.",
         "Note: If an Olympic bar is too heavy use a lighter weight barbell."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

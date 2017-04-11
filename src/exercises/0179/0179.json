@@ -2,11 +2,12 @@
     "id": "0179",
     "name": "lying-close-grip-triceps-extension-behind-the-head-with-barbell",
     "title": "Lying Close-Grip Triceps Extension Behind the Head with Barbell",
-    "alias": "",
     "primer": "You can use a barbell or EZ bar to further concentrate the benefit to your triceps.",
     "type": "isolation",
-    "primary": "triceps",
-    "secondary": "",
+    "primary": [
+        "triceps"
+    ],
+    "secondary": [],
     "equipment": [
         "barbell"
     ],
@@ -17,5 +18,6 @@
         "Keeping the bar parallel with the floor, bend your arms down in an arc so the bar moves in a direction under your head.",
         "Slowly return to starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

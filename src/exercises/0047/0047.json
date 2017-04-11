@@ -2,11 +2,12 @@
     "id": "0047",
     "name": "butterfly-machine",
     "title": "Butterfly Machine",
-    "alias": "",
     "primer": "This is an exercise for chest strengthening.",
     "type": "isolation",
-    "primary": "chest",
-    "secondary": "",
+    "primary": [
+        "chest"
+    ],
+    "secondary": [],
     "equipment": [
         "machine: butterfly"
     ],
@@ -18,5 +19,6 @@
         "Return your arms to the stretched out starting position in a controlled motion.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

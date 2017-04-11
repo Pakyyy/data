@@ -2,10 +2,11 @@
     "id": "0046",
     "name": "dumbbell-bent-arm-pullover",
     "title": "Dumbbell Bent Arm Pullover",
-    "alias": "",
     "primer": "This is an exercise for chest, shoulder, lats and biceps strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "shoulders",
         "triceps",
@@ -22,5 +23,6 @@
         "Pull the dumbbell back up to chest height in a slow controlled manner and return to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

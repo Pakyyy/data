@@ -2,10 +2,11 @@
     "id": "0020",
     "name": "back-flys-exercise-band",
     "title": "Back Fly's with Exercise Band",
-    "alias": "",
     "primer": "This is an exercise for shoulder, middle back and triceps strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "triceps",
         "middle back"
@@ -23,5 +24,6 @@
     ],
     "tips": [
         "Maintain a good upright posture at all times during this exercise ensuring you do not arch your back."
-    ]
+    ],
+    "references": []
 }

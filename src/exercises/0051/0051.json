@@ -2,10 +2,11 @@
     "id": "0051",
     "name": "decline-barbell-bench-press",
     "title": "Decline Barbell Bench Press",
-    "alias": "",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "triceps",
         "shoulders"
@@ -22,5 +23,6 @@
         "Raise the bar back up to starting position with the bar just above your chest.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

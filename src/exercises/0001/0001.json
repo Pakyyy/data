@@ -2,11 +2,12 @@
     "id": "0001",
     "name": "static-neck-flexion-extension",
     "title": "Static Neck Flexion and Extension",
-    "alias": "",
     "primer": "An exercise to either build or warm-up front and back neck strength.",
     "type": "isometric",
-    "primary": "neck",
-    "secondary": "",
+    "primary": [
+        "neck"
+    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -18,5 +19,6 @@
         "Keep your head from moving forward. Hold for at least 30 seconds.",
         "Repeat with hands on the back of your head, pressing against them."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

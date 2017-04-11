@@ -2,10 +2,11 @@
     "id": "0086",
     "name": "body-row",
     "title": "Body Row",
-    "alias": "",
     "primer": "This is a good overall exercise which strengthens your chest, core and back muscles.",
     "type": "compound",
-    "primary": "chest",
+    "primary": [
+        "chest"
+    ],
     "secondary": [
         "core",
         "neck",
@@ -21,5 +22,6 @@
         "Pause for a moment and with slow controlled movements lower your self back to starting position.",
         "Repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

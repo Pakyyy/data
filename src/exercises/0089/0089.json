@@ -2,10 +2,11 @@
     "id": "0089",
     "name": "chin-ups",
     "title": "Chin Ups",
-    "alias": "",
     "primer": "This is an extremely good exercise for upper arm and middle back strengthening.",
     "type": "isolation",
-    "primary": "lats",
+    "primary": [
+        "lats"
+    ],
     "secondary": [
         "biceps",
         "middle back"
@@ -22,5 +23,6 @@
     ],
     "tips": [
         "Ensure to contract your back and core muscles throughout this exercise to prevent injury and to maximise the effectiveness of the exercise."
-    ]
+    ],
+    "references": []
 }

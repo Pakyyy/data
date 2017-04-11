@@ -2,10 +2,11 @@
     "id": "0146",
     "name": "narrow-stance-squat-with-barbell",
     "title": "Narrow Stance Squat with Barbell",
-    "alias": "",
     "primer": "This version of the Squat targets and defines more of the externals leg muscles.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "glutes",
         "calves",
@@ -23,5 +24,6 @@
         "Pause in the downward position and slowly return upright to the starting position.",
         "Notes: A pad on the bar or towel on your shoulders can help improve your grip and reduce the discomfort of the bar against your back. Practice the squat without any weight to allow yourself to become comfortable with the movements."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

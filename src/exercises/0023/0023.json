@@ -2,11 +2,12 @@
     "id": "0023",
     "name": "lying-rear-lateral-raise",
     "title": "Lying Rear Lateral Raise",
-    "alias": "",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
-    "secondary": "",
+    "primary": [
+        "shoulders"
+    ],
+    "secondary": [],
     "equipment": [
         "flat bench",
         "dumbbells"
@@ -19,5 +20,6 @@
         "Raise your arms to shoulder height, maintaining a controlled motion.",
         "Return to starting position and repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0133",
     "name": "squat-to-bench-with-barbell",
     "title": "Squat to Bench with Barbell",
-    "alias": "",
     "primer": "This variation on a squat uses a bench to remind you how far down to squat.",
     "type": "compound",
-    "primary": "quadriceps",
+    "primary": [
+        "quadriceps"
+    ],
     "secondary": [
         "glutes",
         "calves",
@@ -24,5 +25,6 @@
         "Pause in the downward position and slowly return upright to the starting position.",
         "A pad on the bar or towel on your shoulders can help improve your grip and reduce discomfort of the bar against your back. Practice the squat without any weight to allow yourself to become comfortable with the movements. Do not sit on the bench during the exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

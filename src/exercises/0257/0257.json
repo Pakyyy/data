@@ -2,10 +2,11 @@
     "id": "0257",
     "name": "biceps-curl-reverse-with-dumbbells",
     "title": "Biceps Curl Reverse with Dumbbells",
-    "alias": "",
     "primer": "This is a reverse curl exercise that works all of the muscles of the arms.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm"
     ],
@@ -18,5 +19,6 @@
         "Keeping your arms at your side your elbows steady, lift the dumbbells up towards your shoulders.",
         "Pause for a moment and then return to the starting position."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

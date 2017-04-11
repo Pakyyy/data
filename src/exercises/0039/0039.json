@@ -2,10 +2,11 @@
     "id": "0039",
     "name": "one-arm-upright-row",
     "title": "One Arm Upright Row",
-    "alias": "",
     "primer": "This is an exercise for shoulder and trapezius strengthening.",
     "type": "isolation",
-    "primary": "shoulders",
+    "primary": [
+        "shoulders"
+    ],
     "secondary": [
         "trapezius"
     ],
@@ -19,5 +20,6 @@
         "Lift the dumbbell upward to your shoulder with your elbow pointing away from your body in a rowing motion.",
         "Lower your arm to starting position and repeat."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }

@@ -2,10 +2,11 @@
     "id": "0212",
     "name": "standing-biceps-curl-with-cable",
     "title": "Standing Biceps Curl with Cable",
-    "alias": "",
     "primer": "This version of the biceps curl uses a cable instead of a barbell to work the muscles of the arms.",
     "type": "isolation",
-    "primary": "biceps",
+    "primary": [
+        "biceps"
+    ],
     "secondary": [
         "forearm",
         "shoulders"
@@ -21,5 +22,6 @@
         "Pause for a moment and then return to the starting position.",
         "Note: Do not swing your hips or back during this exercise."
     ],
-    "tips": ""
+    "tips": [],
+    "references": []
 }
