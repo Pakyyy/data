@@ -5,7 +5,7 @@
 id: 0284 
 type: compound 
 primary: abdominals 
-secondary: none 
+secondary:  
 equipment: body 
 ``` 
 
@@ -22,7 +22,6 @@ equipment: body
 
 ## Tips
 
- - none
 
 ## Images
 

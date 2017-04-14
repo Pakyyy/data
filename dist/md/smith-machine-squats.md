@@ -21,7 +21,6 @@ equipment: smith machine
 
 ## Tips
 
- - none
 
 ## Images
 

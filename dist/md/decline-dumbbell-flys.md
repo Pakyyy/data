@@ -6,7 +6,7 @@ id: 0053
 type: isolation 
 primary: chest 
 secondary: shoulders 
-equipment: dumbbells, decline bench 
+equipment: dumbbells, bench: decline 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: dumbbells, decline bench
 
 ## Tips
 
- - none
 
 ## Images
 

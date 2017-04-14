@@ -1,4 +1,4 @@
-# Dumbbell Incline Bench Press
+# Bench Press: Dumbbell (Incline)
 > This is an advanced exercise for building and sculpting the chest as well as your triceps and shoulders.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0061
 type: isolation 
 primary: chest 
 secondary: triceps,shoulders 
-equipment: dumbbells, incline bench 
+equipment: dumbbells, bench: incline 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: dumbbells, incline bench
 
 ## Tips
 
- - none
 
 ## Images
 

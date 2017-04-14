@@ -6,7 +6,7 @@ id: 0057
 type: isolation 
 primary: chest 
 secondary: shoulders 
-equipment: flat bench, cable machine 
+equipment: flat bench, cable 
 ``` 
 
 ## Steps
@@ -21,7 +21,6 @@ equipment: flat bench, cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

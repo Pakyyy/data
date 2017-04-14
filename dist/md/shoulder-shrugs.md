@@ -5,7 +5,7 @@
 id: 0005 
 type: isolation 
 primary: trapezius 
-secondary: none 
+secondary:  
 equipment: dumbbell 
 ``` 
 

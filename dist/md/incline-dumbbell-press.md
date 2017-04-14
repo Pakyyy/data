@@ -6,7 +6,7 @@ id: 0080
 type: isolation 
 primary: chest 
 secondary: triceps,shoulders 
-equipment: dumbbells, incline bench 
+equipment: dumbbells, bench: incline 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: dumbbells, incline bench
 
 ## Tips
 
- - none
 
 ## Images
 

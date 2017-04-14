@@ -6,7 +6,7 @@ id: 0097
 type: isolation 
 primary: lats 
 secondary: biceps,middle back 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps

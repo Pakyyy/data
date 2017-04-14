@@ -6,7 +6,7 @@ id: 0025
 type: compound 
 primary: middle back 
 secondary: biceps,lower back 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps

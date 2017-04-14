@@ -22,7 +22,6 @@ equipment: dumbbell
 
 ## Tips
 
- - none
 
 ## Images
 

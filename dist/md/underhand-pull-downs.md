@@ -6,7 +6,7 @@ id: 0093
 type: isolation 
 primary: lats 
 secondary: biceps 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

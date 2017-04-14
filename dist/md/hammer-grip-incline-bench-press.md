@@ -1,4 +1,4 @@
-# Hammer Grip Incline Bench Press
+# Bench Press: Dumbbell (Incline, Hammer Grip)
 > This is an advanced exercise for strengthening the chest, triceps and shoulders.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0059
 type: isolation 
 primary: chest 
 secondary: shoulders,triceps 
-equipment: dumbbells, incline bench 
+equipment: dumbbells, bench: incline 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: dumbbells, incline bench
 
 ## Tips
 
- - none
 
 ## Images
 

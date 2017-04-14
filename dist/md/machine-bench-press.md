@@ -1,4 +1,4 @@
-# Machine Bench Press
+# Bench Press: Machine
 > This is an exercise for chest, biceps and shoulder strengthening.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0066
 type: isolation 
 primary: chest 
 secondary: triceps,shoulders 
-equipment: bench press machine 
+equipment: machine: bench press 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: bench press machine
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -19,7 +19,6 @@ equipment: exercise band
 
 ## Tips
 
- - none
 
 ## Images
 

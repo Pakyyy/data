@@ -6,7 +6,7 @@ id: 0008
 type: isolation 
 primary: shoulders 
 secondary: chest,forearm 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps

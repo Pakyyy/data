@@ -5,7 +5,7 @@
 id: 0075 
 type:  
 primary:  
-secondary: none 
+secondary:  
 equipment: body, bench 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: body, bench
 
 ## Tips
 
- - none
 
 ## Images
 

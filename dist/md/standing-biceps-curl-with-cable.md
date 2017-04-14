@@ -20,7 +20,6 @@ equipment: cable
 
 ## Tips
 
- - none
 
 ## Images
 

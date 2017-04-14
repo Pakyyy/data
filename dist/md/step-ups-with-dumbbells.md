@@ -20,7 +20,6 @@ equipment: dumbbells
 
 ## Tips
 
- - none
 
 ## Images
 

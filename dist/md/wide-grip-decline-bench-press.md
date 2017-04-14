@@ -1,4 +1,4 @@
-# Wide Grip Decline Bench Press
+# Bench Press: Barbell (Decline, Wide Grip)
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0083
 type: isolation 
 primary: chest 
 secondary: triceps,shoulders 
-equipment: barbell, decline bench 
+equipment: barbell, bench: decline 
 ``` 
 
 ## Steps
@@ -20,7 +20,6 @@ equipment: barbell, decline bench
 
 ## Tips
 
- - none
 
 ## Images
 

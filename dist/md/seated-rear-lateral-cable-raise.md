@@ -5,8 +5,8 @@
 id: 0035 
 type: isolation 
 primary: shoulders 
-secondary: none 
-equipment: cable machine 
+secondary:  
+equipment: cable 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -5,7 +5,7 @@
 id: 0117 
 type: isolation 
 primary: hamstrings 
-secondary: none 
+secondary:  
 equipment: machine 
 ``` 
 
@@ -18,7 +18,6 @@ equipment: machine
 
 ## Tips
 
- - none
 
 ## Images
 

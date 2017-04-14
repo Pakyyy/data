@@ -18,7 +18,6 @@ equipment: body, exercise ball
 
 ## Tips
 
- - none
 
 ## Images
 

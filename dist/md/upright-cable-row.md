@@ -6,7 +6,7 @@ id: 0015
 type: isolation 
 primary: shoulders 
 secondary: upper back,biceps 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps

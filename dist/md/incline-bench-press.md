@@ -1,4 +1,4 @@
-# Incline Bench Press
+# Bench Press: Barbell (Incline)
 > This is an exercise for chest and triceps strengthening.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0043
 type: isolation 
 primary: chest 
 secondary: triceps 
-equipment: incline bench, barbell 
+equipment: bench: incline, barbell 
 ``` 
 
 ## Steps

@@ -5,7 +5,7 @@
 id: 0280 
 type: isolation 
 primary: calves 
-secondary: none 
+secondary:  
 equipment: smith machine 
 ``` 
 
@@ -19,7 +19,6 @@ equipment: smith machine
 
 ## Tips
 
- - none
 
 ## Images
 

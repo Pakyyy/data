@@ -6,7 +6,7 @@ id: 0094
 type: isolation 
 primary: lats 
 secondary: triceps,shoulders 
-equipment: body, bands 
+equipment: body, exercise band 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: body, bands
 
 ## Tips
 
- - none
 
 ## Images
 

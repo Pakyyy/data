@@ -5,7 +5,7 @@
 id: 0032 
 type: isolation 
 primary: shoulders 
-secondary: none 
+secondary:  
 equipment: dumbbells 
 ``` 
 

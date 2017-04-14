@@ -1,14 +1,15 @@
 {
     "id": "0042",
     "name": "bench-press",
-    "title": "Bench Press",
+    "title": "Bench Press: Barbell",
     "primer": "This is an exercise for the chest.",
     "type": "compound",
     "primary": [
-        "chest"
+        "pectoralis major"
     ],
     "secondary": [
-        "triceps"
+        "triceps brachii",
+        "deltoideus (clavicula)"
     ],
     "equipment": [
         "bench",

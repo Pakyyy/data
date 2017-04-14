@@ -6,7 +6,6 @@ var util = require('./util');
 _.each(util.getDirectories(__dirname + '/../src/exercises'), function (dir) {
     var data = _.extend(util.getData(dir.path + '/' + dir.name + '.json'));
     data = {
-
         id: data.id,
         name: data.name,
         title: data.title,

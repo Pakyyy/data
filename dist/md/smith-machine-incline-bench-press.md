@@ -1,11 +1,11 @@
-# Smith Machine Incline Bench Press
+# Bench Press: Smith Machine (Incline)
 > 
 
 ``` 
 id: 0302 
 type:  
 primary: chest 
-secondary: none 
+secondary:  
 equipment: smith machine 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: smith machine
 
 ## Tips
 
- - none
 
 ## Images
 

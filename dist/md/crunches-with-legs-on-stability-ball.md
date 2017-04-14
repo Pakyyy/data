@@ -5,7 +5,7 @@
 id: 0290 
 type: isolation 
 primary: abdominals 
-secondary: none 
+secondary:  
 equipment: stability ball 
 ``` 
 
@@ -19,7 +19,6 @@ equipment: stability ball
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -1,4 +1,4 @@
-# Close Grip Barbell Bench Press
+# Bench Press: Barbell (Close Grip)
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 
@@ -20,7 +20,6 @@ equipment: barbell
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -6,7 +6,7 @@ id: 0048
 type: isolation 
 primary: chest 
 secondary: shoulders 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

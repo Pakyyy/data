@@ -1,4 +1,4 @@
-# Wide Grip Bench Press
+# Bench Press: Barbell (Wide Grip)
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 

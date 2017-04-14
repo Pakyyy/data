@@ -12,7 +12,13 @@
 
 **title**
 
-> example: "Bench Press"
+> exaple: "Bench Press Inlince with barbell"
+
+[Bench Press]: [Dumbbell|Barbell|Smith Machine] ([Decline|Incline|])
+
+[exercise]-[variation]-[equipment]
+
+
 
 **alias**
 

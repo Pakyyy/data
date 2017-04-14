@@ -6,7 +6,7 @@ id: 0096
 type: isolation 
 primary: lats 
 secondary: middle back,biceps 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

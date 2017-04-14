@@ -5,7 +5,7 @@
 id: 0207 
 type: isolation 
 primary: triceps 
-secondary: none 
+secondary:  
 equipment: cable, v-bar 
 ``` 
 
@@ -22,7 +22,6 @@ equipment: cable, v-bar
 
 ## Tips
 
- - none
 
 ## Images
 

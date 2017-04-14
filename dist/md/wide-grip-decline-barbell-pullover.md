@@ -5,8 +5,8 @@
 id: 0064 
 type: isolation 
 primary: chest 
-secondary: none 
-equipment: decline bench, barbell 
+secondary:  
+equipment: bench: decline, barbell 
 ``` 
 
 ## Steps

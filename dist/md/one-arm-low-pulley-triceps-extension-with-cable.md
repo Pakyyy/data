@@ -5,7 +5,7 @@
 id: 0199 
 type: compound 
 primary: triceps 
-secondary: none 
+secondary:  
 equipment: cable 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: cable
 
 ## Tips
 
- - none
 
 ## Images
 

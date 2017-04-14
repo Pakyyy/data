@@ -6,7 +6,7 @@ id: 0060
 type: isolation 
 primary: chest 
 secondary: biceps,triceps,forearm 
-equipment: incline bench, cable machine 
+equipment: bench: incline, cable 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: incline bench, cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -5,7 +5,7 @@
 id: 0279 
 type: isolation 
 primary: calves 
-secondary: none 
+secondary:  
 equipment: machine 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: machine
 
 ## Tips
 
- - none
 
 ## Images
 

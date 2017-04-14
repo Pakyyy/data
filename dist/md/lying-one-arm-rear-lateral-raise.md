@@ -5,7 +5,7 @@
 id: 0037 
 type: isolation 
 primary: shoulders 
-secondary: none 
+secondary:  
 equipment: dumbbell, flat bench 
 ``` 
 

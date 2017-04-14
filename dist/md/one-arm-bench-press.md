@@ -1,4 +1,4 @@
-# One Arm Bench Press
+# Bench Press: dumbbell (One Arm)
 > This is an advanced strengthening exercise for the chest and rotator cuff muscles of the shoulder.
 
 ``` 

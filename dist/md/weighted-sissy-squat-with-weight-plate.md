@@ -5,7 +5,7 @@
 id: 0158 
 type: isolation 
 primary: quadriceps 
-secondary: none 
+secondary:  
 equipment: weight plate 
 ``` 
 
@@ -19,7 +19,6 @@ equipment: weight plate
 
 ## Tips
 
- - none
 
 ## Images
 

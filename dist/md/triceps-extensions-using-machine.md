@@ -5,7 +5,7 @@
 id: 0210 
 type: isolation 
 primary: triceps 
-secondary: none 
+secondary:  
 equipment: machine 
 ``` 
 
@@ -17,7 +17,6 @@ equipment: machine
 
 ## Tips
 
- - none
 
 ## Images
 

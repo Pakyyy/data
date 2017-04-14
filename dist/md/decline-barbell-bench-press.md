@@ -1,4 +1,4 @@
-# Decline Barbell Bench Press
+# Bench Press: Barbell (Decline)
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0051
 type: isolation 
 primary: chest 
 secondary: triceps,shoulders 
-equipment: decline bench, barbell 
+equipment: bench: decline, barbell 
 ``` 
 
 ## Steps
@@ -20,7 +20,6 @@ equipment: decline bench, barbell
 
 ## Tips
 
- - none
 
 ## Images
 

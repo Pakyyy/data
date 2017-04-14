@@ -17,7 +17,6 @@ equipment: balance board
 
 ## Tips
 
- - none
 
 ## Images
 

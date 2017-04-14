@@ -5,7 +5,7 @@
 id: 0021 
 type: isolation 
 primary: abdominals 
-secondary: none 
+secondary:  
 equipment: body 
 ``` 
 

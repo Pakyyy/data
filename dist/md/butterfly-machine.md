@@ -5,8 +5,8 @@
 id: 0047 
 type: isolation 
 primary: chest 
-secondary: none 
-equipment: butterfly machine 
+secondary:  
+equipment: machine: butterfly 
 ``` 
 
 ## Steps
@@ -20,7 +20,6 @@ equipment: butterfly machine
 
 ## Tips
 
- - none
 
 ## Images
 

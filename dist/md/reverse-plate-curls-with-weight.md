@@ -18,7 +18,6 @@ equipment: weight plate
 
 ## Tips
 
- - none
 
 ## Images
 

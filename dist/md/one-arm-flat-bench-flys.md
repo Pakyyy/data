@@ -5,8 +5,8 @@
 id: 0071 
 type: isolation 
 primary: chest 
-secondary: none 
-equipment: flat bench, dumbell 
+secondary:  
+equipment: flat bench, dumbbell 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: flat bench, dumbell
 
 ## Tips
 
- - none
 
 ## Images
 

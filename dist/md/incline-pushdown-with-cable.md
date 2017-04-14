@@ -5,7 +5,7 @@
 id: 0163 
 type: isolation 
 primary: triceps 
-secondary: none 
+secondary:  
 equipment: cable 
 ``` 
 
@@ -21,7 +21,6 @@ equipment: cable
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -5,7 +5,7 @@
 id: 0276 
 type: isolation 
 primary: calves 
-secondary: none 
+secondary:  
 equipment: dumbbell 
 ``` 
 
@@ -19,7 +19,6 @@ equipment: dumbbell
 
 ## Tips
 
- - none
 
 ## Images
 

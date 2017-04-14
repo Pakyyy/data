@@ -6,7 +6,7 @@ id: 0085
 type: isolation 
 primary: chest 
 secondary: shoulders,triceps 
-equipment: chest machine 
+equipment: machine: chest 
 ``` 
 
 ## Steps
@@ -17,7 +17,6 @@ equipment: chest machine
 
 ## Tips
 
- - none
 
 ## Images
 

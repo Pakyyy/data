@@ -1,4 +1,4 @@
-# Smith Machine Bench Press
+# Bench Press: Smith Machine
 > With the use of a Smith Machine this exercise strengthens your chest shoulders and triceps.
 
 ``` 

@@ -5,7 +5,7 @@
 id: 0142 
 type: isolation 
 primary: quadriceps 
-secondary: none 
+secondary:  
 equipment: machine 
 ``` 
 
@@ -19,7 +19,6 @@ equipment: machine
 
 ## Tips
 
- - none
 
 ## Images
 

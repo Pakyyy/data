@@ -5,8 +5,8 @@
 id: 0274 
 type: isolation 
 primary: calves 
-secondary: none 
-equipment: bands 
+secondary:  
+equipment: exercise band 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: bands
 
 ## Tips
 
- - none
 
 ## Images
 

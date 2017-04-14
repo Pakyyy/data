@@ -1,4 +1,4 @@
-# Incline Bench Press with Bands
+# Bench Press: Bands (Incline)
 > This is an exercise for chest and biceps strengthening.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0044
 type: isolation 
 primary: chest 
 secondary: biceps 
-equipment: exercise band, incline bench 
+equipment: exercise band, bench: incline 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: exercise band, incline bench
 
 ## Tips
 
- - none
 
 ## Images
 

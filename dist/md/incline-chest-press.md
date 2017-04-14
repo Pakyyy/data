@@ -17,7 +17,6 @@ equipment: chest machine
 
 ## Tips
 
- - none
 
 ## Images
 

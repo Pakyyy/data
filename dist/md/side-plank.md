@@ -5,7 +5,7 @@
 id: 0113 
 type: isolation 
 primary: core 
-secondary: none 
+secondary:  
 equipment: body 
 ``` 
 
@@ -18,7 +18,6 @@ equipment: body
 
 ## Tips
 
- - none
 
 ## Images
 

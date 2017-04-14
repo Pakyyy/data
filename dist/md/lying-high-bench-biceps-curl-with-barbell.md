@@ -5,7 +5,7 @@
 id: 0234 
 type: isolation 
 primary: biceps 
-secondary: none 
+secondary:  
 equipment: barbell 
 ``` 
 
@@ -19,7 +19,6 @@ equipment: barbell
 
 ## Tips
 
- - none
 
 ## Images
 

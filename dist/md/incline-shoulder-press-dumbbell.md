@@ -5,7 +5,7 @@
 id: 0031 
 type: isolation 
 primary: shoulders 
-secondary: none 
+secondary:  
 equipment: dumbbell 
 ``` 
 
@@ -18,7 +18,6 @@ equipment: dumbbell
 
 ## Tips
 
- - none
 
 ## Images
 

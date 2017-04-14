@@ -6,7 +6,7 @@ id: 0103
 type: isolation 
 primary: lower back 
 secondary: hamstrings,core 
-equipment: hyperextension bench 
+equipment: bench: hyperextension 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: hyperextension bench
 
 ## Tips
 
- - none
 
 ## Images
 

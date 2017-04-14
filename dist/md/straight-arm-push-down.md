@@ -6,7 +6,7 @@ id: 0092
 type: isolation 
 primary: lats 
 secondary: triceps 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

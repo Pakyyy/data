@@ -1,4 +1,4 @@
-# Bench Press Dumbbell
+# Bench Press: Dumbbell
 > This is  an exercise for chest,triceps and shoulder strengthening.
 
 ``` 
@@ -22,7 +22,6 @@ equipment: dumbbells, flat bench
 
 ## Tips
 
- - none
 
 ## Images
 

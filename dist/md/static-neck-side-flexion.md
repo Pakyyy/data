@@ -5,7 +5,7 @@
 id: 0002 
 type: isometric 
 primary: neck 
-secondary: none 
+secondary:  
 equipment: body 
 ``` 
 

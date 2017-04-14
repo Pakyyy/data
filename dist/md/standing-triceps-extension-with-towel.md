@@ -5,7 +5,7 @@
 id: 0202 
 type: isolation 
 primary: triceps 
-secondary: none 
+secondary:  
 equipment: body 
 ``` 
 
@@ -19,7 +19,6 @@ equipment: body
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -5,7 +5,7 @@
 id: 0023 
 type: isolation 
 primary: shoulders 
-secondary: none 
+secondary:  
 equipment: flat bench, dumbbells 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: flat bench, dumbbells
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -19,7 +19,6 @@ equipment: flat bench, dumbbell
 
 ## Tips
 
- - none
 
 ## Images
 

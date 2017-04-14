@@ -5,7 +5,7 @@
 id: 0196 
 type: isolation 
 primary: triceps 
-secondary: none 
+secondary:  
 equipment: dumbbell 
 ``` 
 
@@ -18,7 +18,6 @@ equipment: dumbbell
 
 ## Tips
 
- - none
 
 ## Images
 

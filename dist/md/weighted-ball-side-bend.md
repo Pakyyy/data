@@ -5,7 +5,7 @@
 id: 0208 
 type: isolation 
 primary: obliques 
-secondary: none 
+secondary:  
 equipment: weight, exercise ball 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: weight, exercise ball
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -19,7 +19,6 @@ equipment: bar
 
 ## Tips
 
- - none
 
 ## Images
 

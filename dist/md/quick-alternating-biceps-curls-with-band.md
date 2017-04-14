@@ -6,7 +6,7 @@ id: 0261
 type: isolation 
 primary: biceps 
 secondary: triceps 
-equipment: band 
+equipment: exercise band 
 ``` 
 
 ## Steps
@@ -19,7 +19,6 @@ equipment: band
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -1,4 +1,4 @@
-# Reverse Triceps Bench Press with Barbell
+# Bench Press: Barbell (Reverse Triceps)
 > This exercise is a version of the Bench Press that specifically isolates the triceps.
 
 ``` 
@@ -18,7 +18,6 @@ equipment: barbell
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -1,4 +1,4 @@
-# Smith Machine Close Grip Bench Press
+# Bench Press: Smith Machine (Close Grip)
 > This version of a Bench Press uses a close grip to isolate the triceps as well as working the chest.
 
 ``` 
@@ -17,7 +17,6 @@ equipment: smith machine
 
 ## Tips
 
- - none
 
 ## Images
 

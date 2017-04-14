@@ -5,8 +5,8 @@
 id: 0200 
 type: isolation 
 primary: triceps 
-secondary: none 
-equipment: dumbell 
+secondary:  
+equipment: dumbbell 
 ``` 
 
 ## Steps
@@ -20,7 +20,6 @@ equipment: dumbell
 
 ## Tips
 
- - none
 
 ## Images
 

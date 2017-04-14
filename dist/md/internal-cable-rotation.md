@@ -6,7 +6,7 @@ id: 0034
 type: compound 
 primary: shoulders 
 secondary: biceps 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps

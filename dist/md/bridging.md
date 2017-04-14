@@ -16,7 +16,6 @@ equipment: body
 
 ## Tips
 
- - none
 
 ## Images
 

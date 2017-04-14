@@ -19,7 +19,6 @@ equipment: medicine ball
 
 ## Tips
 
- - none
 
 ## Images
 

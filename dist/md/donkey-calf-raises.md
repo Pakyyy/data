@@ -5,7 +5,7 @@
 id: 0275 
 type: isolation 
 primary: calves 
-secondary: none 
+secondary:  
 equipment: body 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: body
 
 ## Tips
 
- - none
 
 ## Images
 

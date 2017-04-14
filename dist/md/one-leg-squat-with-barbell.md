@@ -23,7 +23,6 @@ equipment: barbell
 
 ## Tips
 
- - none
 
 ## Images
 

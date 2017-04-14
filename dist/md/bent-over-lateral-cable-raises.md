@@ -6,7 +6,7 @@ id: 0017
 type: isolation 
 primary: shoulders 
 secondary: trapezius,middle back 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps

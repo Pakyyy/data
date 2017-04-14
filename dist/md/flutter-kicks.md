@@ -19,7 +19,6 @@ equipment: flat bench
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -5,7 +5,7 @@
 id: 0030 
 type: isolation 
 primary: trapezius 
-secondary: none 
+secondary:  
 equipment: barbell 
 ``` 
 

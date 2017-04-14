@@ -18,7 +18,6 @@ equipment: machine
 
 ## Tips
 
- - none
 
 ## Images
 

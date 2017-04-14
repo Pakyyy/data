@@ -6,7 +6,7 @@ id: 0063
 type: isolation 
 primary: chest 
 secondary: shoulders 
-equipment: incline bench, dumbbells 
+equipment: bench: incline, dumbbells 
 ``` 
 
 ## Steps

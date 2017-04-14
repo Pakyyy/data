@@ -6,7 +6,7 @@ id: 0112
 type: isolation 
 primary: glutes 
 secondary: hamstrings 
-equipment: cable machine 
+equipment: cable 
 ``` 
 
 ## Steps
@@ -18,7 +18,6 @@ equipment: cable machine
 
 ## Tips
 
- - none
 
 ## Images
 

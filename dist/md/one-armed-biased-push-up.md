@@ -20,7 +20,6 @@ equipment: bosu ball
 
 ## Tips
 
- - none
 
 ## Images
 

@@ -5,7 +5,7 @@
 id: 0288 
 type: isolation 
 primary: abdominals 
-secondary: none 
+secondary:  
 equipment: cable 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: cable
 
 ## Tips
 
- - none
 
 ## Images
 

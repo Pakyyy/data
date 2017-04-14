@@ -19,7 +19,6 @@ equipment: body, bench
 
 ## Tips
 
- - none
 
 ## Images
 

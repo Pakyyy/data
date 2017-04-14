@@ -5,7 +5,7 @@
 id: 0170 
 type: isolation 
 primary: triceps 
-secondary: none 
+secondary:  
 equipment: barbell 
 ``` 
 
@@ -17,7 +17,6 @@ equipment: barbell
 
 ## Tips
 
- - none
 
 ## Images
 

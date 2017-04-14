@@ -1,11 +1,11 @@
-# Bench Press
+# Bench Press: Barbell
 > This is an exercise for the chest.
 
 ``` 
 id: 0042 
 type: compound 
-primary: chest 
-secondary: triceps 
+primary: pectoralis major 
+secondary: triceps brachii,deltoideus (clavicula) 
 equipment: bench, barbell 
 ``` 
 
@@ -20,7 +20,6 @@ equipment: bench, barbell
 
 ## Tips
 
- - none
 
 ## Images
 

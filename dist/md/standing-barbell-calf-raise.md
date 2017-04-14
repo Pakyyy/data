@@ -5,7 +5,7 @@
 id: 0281 
 type: isolation 
 primary: calves 
-secondary: none 
+secondary:  
 equipment: barbell 
 ``` 
 
@@ -18,7 +18,6 @@ equipment: barbell
 
 ## Tips
 
- - none
 
 ## Images
 

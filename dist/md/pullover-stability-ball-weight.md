@@ -20,7 +20,6 @@ equipment: exercise ball, dumbbell
 
 ## Tips
 
- - none
 
 ## Images
 
