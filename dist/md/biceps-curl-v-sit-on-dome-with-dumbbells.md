@@ -4,7 +4,7 @@
 ``` 
 id: 0269 
 type: isolation 
-primary: biceps 
+primary: biceps brachii 
 secondary: abdominals,core 
 equipment: dumbbell 
 ``` 

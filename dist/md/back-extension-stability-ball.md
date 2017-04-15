@@ -4,8 +4,8 @@
 ``` 
 id: 0104 
 type: isolation 
-primary: lower back 
-secondary: core,hamstrings 
+primary: erector spinae 
+secondary: core,ischiocrural muscles 
 equipment: exercise ball 
 ``` 
 

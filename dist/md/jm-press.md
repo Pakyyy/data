@@ -4,8 +4,8 @@
 ``` 
 id: 0175 
 type: compound 
-primary: triceps 
-secondary: shoulders 
+primary: triceps brachii 
+secondary: deltoid 
 equipment: barbell 
 ``` 
 

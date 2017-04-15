@@ -4,8 +4,8 @@
 ``` 
 id: 0098 
 type: isolation 
-primary: shoulders 
-secondary: back,neck 
+primary: deltoid 
+secondary: back,trapezius 
 equipment: exercise ball, dumbbell 
 ``` 
 

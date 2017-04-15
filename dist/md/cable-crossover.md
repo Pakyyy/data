@@ -4,8 +4,8 @@
 ``` 
 id: 0048 
 type: isolation 
-primary: chest 
-secondary: shoulders 
+primary: pectoralis major 
+secondary: deltoid 
 equipment: cable 
 ``` 
 

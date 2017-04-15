@@ -4,8 +4,8 @@
 ``` 
 id: 0067 
 type: isolation 
-primary: chest 
-secondary: biceps 
+primary: pectoralis major 
+secondary: biceps brachii 
 equipment: barbell, flat bench 
 ``` 
 

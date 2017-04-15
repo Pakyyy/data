@@ -4,8 +4,8 @@
 ``` 
 id: 0264 
 type: compound, isolation 
-primary: quadriceps,biceps 
-secondary: forearm,hamstrings,glutes,calves,hip abductors 
+primary: quadriceps,biceps brachii 
+secondary: forearm,ischiocrural muscles,glutaeus maximus,gastrocnemius,soleus,hip abductors 
 equipment: dumbbell 
 ``` 
 

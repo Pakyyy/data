@@ -3,9 +3,9 @@
 
 ``` 
 id: 0091 
-type:  
-primary: back 
-secondary: neck,biceps 
+type: isolation 
+primary: trapezius 
+secondary: trapezius,biceps brachii 
 equipment: body, pull-up bar 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0019 
 type: compound 
-primary: shoulders 
-secondary: biceps,triceps 
+primary: deltoid 
+secondary: biceps brachii,triceps brachii 
 equipment: swiss ball 
 ``` 
 

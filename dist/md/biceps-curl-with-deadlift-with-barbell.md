@@ -1,11 +1,11 @@
-# Bicep Curl with Deadlift with Barbell
+# Dead Lift: Barbell (Biceps Curl)
 > This exercise combines a bicep curl with a deadlift.
 
 ``` 
 id: 0259 
 type: isolation 
-primary: biceps 
-secondary: calves,lower back,hamstrings 
+primary: biceps brachii 
+secondary: gastrocnemius,soleus,erector spinae,ischiocrural muscles 
 equipment: barbell 
 ``` 
 

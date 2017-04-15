@@ -1,11 +1,11 @@
-# One Arm Side Deadlift with Barbell
+# Dead Lift: Barbell (One Arm Side)
 > This is an advanced exercise that works most of the muscles of the body.
 
 ``` 
 id: 0150 
 type: compound 
 primary: quadriceps 
-secondary: abdominals,glutes,calves,hamstrings 
+secondary: abdominals,glutaeus maximus,gastrocnemius,soleus,ischiocrural muscles 
 equipment: barbell 
 ``` 
 

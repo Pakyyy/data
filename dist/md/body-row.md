@@ -4,8 +4,8 @@
 ``` 
 id: 0086 
 type: compound 
-primary: chest 
-secondary: core,neck,back 
+primary: pectoralis major 
+secondary: core,trapezius,back 
 equipment: bar 
 ``` 
 

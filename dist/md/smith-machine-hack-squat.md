@@ -5,7 +5,7 @@
 id: 0126 
 type: compound 
 primary: quadriceps 
-secondary: hamstrings,glutes 
+secondary: ischiocrural muscles,glutaeus maximus 
 equipment: smith machine 
 ``` 
 

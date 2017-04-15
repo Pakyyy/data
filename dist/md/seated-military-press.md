@@ -4,8 +4,8 @@
 ``` 
 id: 0004 
 type: isolation 
-primary: shoulders 
-secondary: triceps 
+primary: deltoid 
+secondary: triceps brachii 
 equipment: barbell, bench 
 ``` 
 

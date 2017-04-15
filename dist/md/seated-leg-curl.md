@@ -4,7 +4,7 @@
 ``` 
 id: 0119 
 type: isolation 
-primary: hamstrings 
+primary: ischiocrural muscles 
 secondary:  
 equipment: machine 
 ``` 

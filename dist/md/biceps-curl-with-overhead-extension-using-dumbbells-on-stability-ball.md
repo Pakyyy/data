@@ -4,7 +4,7 @@
 ``` 
 id: 0260 
 type: isolation 
-primary: triceps,biceps 
+primary: triceps brachii,biceps brachii 
 secondary: forearm,should 
 equipment: dumbbell 
 ``` 

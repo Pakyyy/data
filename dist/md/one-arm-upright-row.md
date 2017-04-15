@@ -4,7 +4,7 @@
 ``` 
 id: 0039 
 type: isolation 
-primary: shoulders 
+primary: deltoid 
 secondary: trapezius 
 equipment: dumbbell 
 ``` 

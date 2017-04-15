@@ -5,7 +5,7 @@
 id: 0285 
 type: compound 
 primary: abdominals 
-secondary: lower back,shoulders 
+secondary: erector spinae,deltoid 
 equipment: barbell 
 ``` 
 

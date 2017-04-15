@@ -4,8 +4,8 @@
 ``` 
 id: 0062 
 type: isolation 
-primary: chest 
-secondary: shoulders 
+primary: pectoralis major 
+secondary: deltoid 
 equipment: bench: incline, dumbbells 
 ``` 
 

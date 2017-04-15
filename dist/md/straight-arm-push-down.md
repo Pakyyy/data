@@ -4,8 +4,8 @@
 ``` 
 id: 0092 
 type: isolation 
-primary: lats 
-secondary: triceps 
+primary: latissimus dorsi 
+secondary: triceps brachii 
 equipment: cable 
 ``` 
 

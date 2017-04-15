@@ -4,8 +4,8 @@
 ``` 
 id: 0111 
 type: isolation 
-primary: glutes 
-secondary: hamstrings 
+primary: glutaeus maximus 
+secondary: ischiocrural muscles 
 equipment: body 
 ``` 
 

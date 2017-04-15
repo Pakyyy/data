@@ -4,7 +4,7 @@
 ``` 
 id: 0252 
 type: isolation 
-primary: biceps 
+primary: biceps brachii 
 secondary: forearm 
 equipment: dumbbell 
 ``` 

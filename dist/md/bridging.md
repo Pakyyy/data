@@ -4,7 +4,7 @@
 ``` 
 id: 0109 
 type: isolation 
-primary: glutes 
+primary: glutaeus maximus 
 secondary: core 
 equipment: body 
 ``` 

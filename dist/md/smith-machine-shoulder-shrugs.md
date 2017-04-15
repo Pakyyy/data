@@ -4,7 +4,7 @@
 ``` 
 id: 0041 
 type: isolation 
-primary: shoulders 
+primary: deltoid 
 secondary:  
 equipment: smith machine 
 ``` 

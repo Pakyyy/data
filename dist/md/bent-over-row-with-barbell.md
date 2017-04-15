@@ -4,8 +4,8 @@
 ``` 
 id: 0298 
 type: compound 
-primary: middle back 
-secondary: biceps 
+primary: latissimus dorsi 
+secondary: biceps brachii 
 equipment: barbell 
 ``` 
 

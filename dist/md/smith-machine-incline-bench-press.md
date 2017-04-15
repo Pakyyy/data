@@ -3,9 +3,9 @@
 
 ``` 
 id: 0302 
-type:  
-primary: chest 
-secondary:  
+type: isolation 
+primary: pectoralis major 
+secondary: triceps brachii 
 equipment: smith machine 
 ``` 
 

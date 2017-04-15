@@ -4,7 +4,7 @@
 ``` 
 id: 0163 
 type: isolation 
-primary: triceps 
+primary: triceps brachii 
 secondary:  
 equipment: cable 
 ``` 

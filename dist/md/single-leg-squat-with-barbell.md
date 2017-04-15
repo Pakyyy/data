@@ -5,7 +5,7 @@
 id: 0132 
 type: compound 
 primary: quadriceps 
-secondary: calves,hamstrings 
+secondary: gastrocnemius,soleus,ischiocrural muscles 
 equipment: barbell 
 ``` 
 

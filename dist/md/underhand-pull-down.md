@@ -4,8 +4,8 @@
 ``` 
 id: 0095 
 type: isolation 
-primary: lats 
-secondary: biceps 
+primary: latissimus dorsi 
+secondary: biceps brachii 
 equipment: cable 
 ``` 
 

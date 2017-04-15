@@ -4,7 +4,7 @@
 ``` 
 id: 0047 
 type: isolation 
-primary: chest 
+primary: pectoralis major 
 secondary:  
 equipment: machine: butterfly 
 ``` 

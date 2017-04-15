@@ -5,7 +5,7 @@
 id: 0151 
 type: compound 
 primary: quadriceps 
-secondary: glutes,calves,hamstrings,shoulders,lower back 
+secondary: glutaeus maximus,gastrocnemius,soleus,ischiocrural muscles,deltoid,erector spinae 
 equipment: barbell 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0101 
 type: isolation 
-primary: lower back 
-secondary: hamstrings 
+primary: erector spinae 
+secondary: ischiocrural muscles 
 equipment: barbell 
 ``` 
 

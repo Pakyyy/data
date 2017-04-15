@@ -4,7 +4,7 @@
 ``` 
 id: 0037 
 type: isolation 
-primary: shoulders 
+primary: deltoid 
 secondary:  
 equipment: dumbbell, flat bench 
 ``` 

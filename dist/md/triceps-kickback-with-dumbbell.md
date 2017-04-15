@@ -4,7 +4,7 @@
 ``` 
 id: 0204 
 type: isolation 
-primary: triceps 
+primary: triceps brachii 
 secondary:  
 equipment: dumbbell 
 ``` 

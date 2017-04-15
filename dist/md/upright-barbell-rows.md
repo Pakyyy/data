@@ -4,8 +4,8 @@
 ``` 
 id: 0014 
 type: isolation 
-primary: shoulders 
-secondary: biceps,upper back 
+primary: deltoid 
+secondary: biceps brachii,upper back 
 equipment: barbell 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0300 
 type: isolation 
-primary: shoulders 
-secondary: middle back 
+primary: deltoid 
+secondary: latissimus dorsi 
 equipment: dumbbells 
 ``` 
 

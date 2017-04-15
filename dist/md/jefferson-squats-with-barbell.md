@@ -4,7 +4,7 @@
 ``` 
 id: 0141 
 type: compound 
-primary: hamstrings 
+primary: ischiocrural muscles 
 secondary:  
 equipment: barbell 
 ``` 

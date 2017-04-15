@@ -5,7 +5,7 @@
 id: 0123 
 type: compound 
 primary: quadriceps 
-secondary: hamstrings,calves 
+secondary: ischiocrural muscles,gastrocnemius,soleus 
 equipment: machine 
 ``` 
 

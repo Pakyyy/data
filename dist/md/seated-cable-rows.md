@@ -4,8 +4,8 @@
 ``` 
 id: 0025 
 type: compound 
-primary: middle back 
-secondary: biceps,lower back 
+primary: latissimus dorsi 
+secondary: biceps brachii,erector spinae 
 equipment: cable 
 ``` 
 

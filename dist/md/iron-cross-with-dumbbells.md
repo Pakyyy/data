@@ -5,7 +5,7 @@
 id: 0140 
 type: compound 
 primary: quadriceps 
-secondary: trapezius,glutes,shoulders,lower back,hamstrings 
+secondary: trapezius,glutaeus maximus,deltoid,erector spinae,ischiocrural muscles 
 equipment: dumbbells 
 ``` 
 

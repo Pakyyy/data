@@ -4,8 +4,8 @@
 ``` 
 id: 0069 
 type: isolation 
-primary: chest 
-secondary: shoulders,core,triceps 
+primary: pectoralis major 
+secondary: deltoid,core,triceps brachii 
 equipment: bosu ball 
 ``` 
 

@@ -5,7 +5,7 @@
 id: 0157 
 type: isolation 
 primary: quadriceps 
-secondary: hamstrings 
+secondary: ischiocrural muscles 
 equipment: machine 
 ``` 
 

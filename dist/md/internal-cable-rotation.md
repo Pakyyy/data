@@ -4,8 +4,8 @@
 ``` 
 id: 0034 
 type: compound 
-primary: shoulders 
-secondary: biceps 
+primary: deltoid 
+secondary: biceps brachii 
 equipment: cable 
 ``` 
 

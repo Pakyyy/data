@@ -4,8 +4,8 @@
 ``` 
 id: 0195 
 type: compound 
-primary: triceps 
-secondary: chest 
+primary: triceps brachii 
+secondary: pectoralis major 
 equipment: smith machine 
 ``` 
 

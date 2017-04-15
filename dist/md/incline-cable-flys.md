@@ -4,8 +4,8 @@
 ``` 
 id: 0060 
 type: isolation 
-primary: chest 
-secondary: biceps,triceps,forearm 
+primary: pectoralis major 
+secondary: biceps brachii,triceps brachii,forearm 
 equipment: bench: incline, cable 
 ``` 
 

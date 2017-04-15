@@ -4,8 +4,8 @@
 ``` 
 id: 0012 
 type: isolation 
-primary: shoulders 
-secondary: triceps,chest 
+primary: deltoid 
+secondary: triceps brachii,pectoralis major 
 equipment: dumbbell 
 ``` 
 

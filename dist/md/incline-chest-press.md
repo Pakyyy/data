@@ -4,8 +4,8 @@
 ``` 
 id: 0084 
 type: isolation 
-primary: chest 
-secondary: triceps,shoulders 
+primary: pectoralis major 
+secondary: triceps brachii,deltoid 
 equipment: chest machine 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0044 
 type: isolation 
-primary: chest 
-secondary: biceps 
+primary: pectoralis major 
+secondary: biceps brachii 
 equipment: exercise band, bench: incline 
 ``` 
 

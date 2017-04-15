@@ -1,11 +1,11 @@
-# Barbell Dead Lifts
+# Dead Lifts: Barbell
 > The techniques is identical to that of the Smith Machine dead lift except for the fact that this exercise provides less support.
 
 ``` 
 id: 0099 
 type: isolation 
-primary: lower back 
-secondary: hamstrings,calves 
+primary: erector spinae 
+secondary: ischiocrural muscles,gastrocnemius,soleus 
 equipment: barbell 
 ``` 
 

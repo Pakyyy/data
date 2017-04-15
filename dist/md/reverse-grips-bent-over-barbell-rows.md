@@ -4,8 +4,8 @@
 ``` 
 id: 0026 
 type: isolation 
-primary: middle back 
-secondary: biceps 
+primary: latissimus dorsi 
+secondary: biceps brachii 
 equipment: barbell 
 ``` 
 

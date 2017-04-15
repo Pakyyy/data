@@ -4,7 +4,7 @@
 ``` 
 id: 0280 
 type: isolation 
-primary: calves 
+primary: gastrocnemius,soleus 
 secondary:  
 equipment: smith machine 
 ``` 

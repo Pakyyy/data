@@ -4,7 +4,7 @@
 ``` 
 id: 0267 
 type: isolation 
-primary: biceps 
+primary: biceps brachii 
 secondary: core,forearm 
 equipment: medicine ball 
 ``` 

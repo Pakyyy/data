@@ -4,8 +4,8 @@
 ``` 
 id: 0028 
 type: isolation 
-primary: shoulders 
-secondary: biceps 
+primary: deltoid 
+secondary: biceps brachii 
 equipment: barbell 
 ``` 
 

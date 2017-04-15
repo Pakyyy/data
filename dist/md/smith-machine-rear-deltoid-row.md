@@ -4,8 +4,8 @@
 ``` 
 id: 0022 
 type: isolation 
-primary: shoulders 
-secondary: back,biceps 
+primary: deltoid 
+secondary: back,biceps brachii 
 equipment: smith machine 
 ``` 
 

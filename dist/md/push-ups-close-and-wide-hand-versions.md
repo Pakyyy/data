@@ -4,8 +4,8 @@
 ``` 
 id: 0073 
 type: isolation 
-primary: chest 
-secondary: triceps,shoulders,core 
+primary: pectoralis major 
+secondary: triceps brachii,deltoid,core 
 equipment: body 
 ``` 
 

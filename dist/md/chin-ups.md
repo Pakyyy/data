@@ -4,8 +4,8 @@
 ``` 
 id: 0089 
 type: isolation 
-primary: lats 
-secondary: biceps,middle back 
+primary: latissimus dorsi 
+secondary: biceps brachii 
 equipment: body, bar 
 ``` 
 

@@ -5,7 +5,7 @@
 id: 0122 
 type: compound 
 primary: quadriceps 
-secondary: hamstrings 
+secondary: ischiocrural muscles 
 equipment: barbell 
 ``` 
 

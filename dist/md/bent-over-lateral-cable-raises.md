@@ -4,8 +4,8 @@
 ``` 
 id: 0017 
 type: isolation 
-primary: shoulders 
-secondary: trapezius,middle back 
+primary: deltoid 
+secondary: trapezius,latissimus dorsi 
 equipment: cable 
 ``` 
 

@@ -4,7 +4,7 @@
 ``` 
 id: 0105 
 type: isolation 
-primary: lower back 
+primary: erector spinae 
 secondary: core 
 equipment: body 
 ``` 

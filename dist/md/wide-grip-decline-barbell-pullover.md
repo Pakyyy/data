@@ -4,7 +4,7 @@
 ``` 
 id: 0064 
 type: isolation 
-primary: chest 
+primary: pectoralis major 
 secondary:  
 equipment: bench: decline, barbell 
 ``` 

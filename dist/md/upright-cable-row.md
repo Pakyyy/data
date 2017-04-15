@@ -4,8 +4,8 @@
 ``` 
 id: 0015 
 type: isolation 
-primary: shoulders 
-secondary: upper back,biceps 
+primary: deltoid 
+secondary: upper back,biceps brachii 
 equipment: cable 
 ``` 
 

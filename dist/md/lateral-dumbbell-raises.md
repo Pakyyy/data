@@ -4,7 +4,7 @@
 ``` 
 id: 0018 
 type: isolation 
-primary: shoulders 
+primary: deltoid 
 secondary: forearm 
 equipment: dumbbells 
 ``` 

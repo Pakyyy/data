@@ -4,7 +4,7 @@
 ``` 
 id: 0282 
 type: isolation 
-primary: calves 
+primary: gastrocnemius,soleus 
 secondary:  
 equipment: machine 
 ``` 

@@ -4,7 +4,7 @@
 ``` 
 id: 0236 
 type: isolation 
-primary: biceps 
+primary: biceps brachii 
 secondary: forearm 
 equipment: machine 
 ``` 

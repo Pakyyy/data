@@ -5,7 +5,7 @@
 id: 0129 
 type: compound 
 primary: quadriceps 
-secondary: calves,hamstrings,glutes,hip abductors 
+secondary: gastrocnemius,soleus,ischiocrural muscles,glutaeus maximus,hip abductors 
 equipment: dumbbells 
 ``` 
 

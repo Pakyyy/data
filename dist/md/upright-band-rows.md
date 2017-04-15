@@ -4,8 +4,8 @@
 ``` 
 id: 0094 
 type: isolation 
-primary: lats 
-secondary: triceps,shoulders 
+primary: latissimus dorsi 
+secondary: triceps brachii,deltoid 
 equipment: body, exercise band 
 ``` 
 

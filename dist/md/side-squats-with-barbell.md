@@ -5,7 +5,7 @@
 id: 0131 
 type: compound 
 primary: quadriceps 
-secondary: hip abductors,hamstrings 
+secondary: hip abductors,ischiocrural muscles 
 equipment: barbell 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0271 
 type: compound 
-primary: calves 
-secondary: quadriceps,hamstrings 
+primary: gastrocnemius,soleus 
+secondary: quadriceps,ischiocrural muscles 
 equipment: balance board 
 ``` 
 

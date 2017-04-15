@@ -4,7 +4,7 @@
 ``` 
 id: 0001 
 type: isometric 
-primary: neck 
+primary: trapezius 
 secondary:  
 equipment: body 
 ``` 

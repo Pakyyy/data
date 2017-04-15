@@ -4,8 +4,8 @@
 ``` 
 id: 0010 
 type: isolation 
-primary: shoulders 
-secondary: forearm,chest 
+primary: deltoid 
+secondary: forearm,pectoralis major 
 equipment: dumbbell 
 ``` 
 

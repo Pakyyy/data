@@ -4,8 +4,8 @@
 ``` 
 id: 0050 
 type: isolation 
-primary: chest 
-secondary: shoulders,biceps 
+primary: pectoralis major 
+secondary: deltoid,biceps brachii 
 equipment: exercise band 
 ``` 
 

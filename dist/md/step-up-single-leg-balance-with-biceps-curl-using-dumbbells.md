@@ -4,8 +4,8 @@
 ``` 
 id: 0266 
 type: isolation 
-primary: biceps 
-secondary: core,quadriceps,forearm,hamstrings,glutes,calves 
+primary: biceps brachii 
+secondary: core,quadriceps,forearm,ischiocrural muscles,glutaeus maximus,gastrocnemius,soleus 
 equipment: dumbbell 
 ``` 
 

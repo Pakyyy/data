@@ -4,8 +4,8 @@
 ``` 
 id: 0229 
 type: isolation 
-primary: biceps 
-secondary: triceps 
+primary: biceps brachii 
+secondary: triceps brachii 
 equipment: cable 
 ``` 
 

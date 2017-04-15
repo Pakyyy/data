@@ -4,8 +4,8 @@
 ``` 
 id: 0043 
 type: isolation 
-primary: chest 
-secondary: triceps 
+primary: pectoralis major 
+secondary: triceps brachii 
 equipment: bench: incline, barbell 
 ``` 
 

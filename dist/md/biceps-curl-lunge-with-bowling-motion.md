@@ -3,9 +3,9 @@
 
 ``` 
 id: 0262 
-type:  
-primary: biceps 
-secondary: calves,triceps,hamstrings,glutes,quadriceps 
+type: isolation 
+primary: biceps brachii 
+secondary: gastrocnemius,soleus,triceps brachii,ischiocrural muscles,glutaeus maximus,quadriceps 
 equipment: medicine ball 
 ``` 
 

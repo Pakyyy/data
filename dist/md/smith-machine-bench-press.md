@@ -4,8 +4,8 @@
 ``` 
 id: 0078 
 type: isolation 
-primary: chest 
-secondary: shoulders,triceps 
+primary: pectoralis major 
+secondary: deltoid,triceps brachii 
 equipment: flat bench, smith machine 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0211 
 type: isolation 
-primary: biceps 
-secondary: shoulders,forearm 
+primary: biceps brachii 
+secondary: deltoid,forearm 
 equipment: barbell 
 ``` 
 

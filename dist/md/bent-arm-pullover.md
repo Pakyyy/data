@@ -4,8 +4,8 @@
 ``` 
 id: 0045 
 type: isolation 
-primary: chest 
-secondary: lats,shoulders,triceps 
+primary: pectoralis major 
+secondary: latissimus dorsi,deltoid,triceps brachii 
 equipment: barbell, flat bench 
 ``` 
 

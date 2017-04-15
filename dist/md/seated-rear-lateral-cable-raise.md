@@ -4,7 +4,7 @@
 ``` 
 id: 0035 
 type: isolation 
-primary: shoulders 
+primary: deltoid 
 secondary:  
 equipment: cable 
 ``` 

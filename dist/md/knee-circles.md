@@ -4,8 +4,8 @@
 ``` 
 id: 0277 
 type: compound 
-primary: calves 
-secondary: hamstrings 
+primary: gastrocnemius,soleus 
+secondary: ischiocrural muscles 
 equipment: body 
 ``` 
 

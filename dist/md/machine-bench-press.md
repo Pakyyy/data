@@ -4,8 +4,8 @@
 ``` 
 id: 0066 
 type: isolation 
-primary: chest 
-secondary: triceps,shoulders 
+primary: pectoralis major 
+secondary: triceps brachii,deltoid 
 equipment: machine: bench press 
 ``` 
 

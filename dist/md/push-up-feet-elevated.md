@@ -3,9 +3,9 @@
 
 ``` 
 id: 0075 
-type:  
-primary:  
-secondary:  
+type: isolation 
+primary: pectoralis major,deltoid 
+secondary: triceps brachii 
 equipment: body, bench 
 ``` 
 

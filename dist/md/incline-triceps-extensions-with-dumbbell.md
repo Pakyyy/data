@@ -4,8 +4,8 @@
 ``` 
 id: 0209 
 type: isolation 
-primary: triceps 
-secondary: shoulders 
+primary: triceps brachii 
+secondary: deltoid 
 equipment: dumbbell 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0020 
 type: isolation 
-primary: shoulders 
-secondary: triceps,middle back 
+primary: deltoid 
+secondary: triceps brachii,latissimus dorsi 
 equipment: exercise band 
 ``` 
 

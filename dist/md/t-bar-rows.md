@@ -4,8 +4,8 @@
 ``` 
 id: 0029 
 type: isolation 
-primary: middle back 
-secondary: biceps,shoulders 
+primary: latissimus dorsi 
+secondary: biceps brachii,deltoid 
 equipment: t-bar machine 
 ``` 
 

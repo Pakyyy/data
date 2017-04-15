@@ -4,7 +4,7 @@
 ``` 
 id: 0216 
 type: isolation 
-primary: biceps 
+primary: biceps brachii 
 secondary:  
 equipment: cable 
 ``` 

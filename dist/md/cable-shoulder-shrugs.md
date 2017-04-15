@@ -5,7 +5,7 @@
 id: 0009 
 type: isolation 
 primary: trapezius 
-secondary: shoulders 
+secondary: deltoid 
 equipment: cable 
 ``` 
 

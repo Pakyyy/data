@@ -4,8 +4,8 @@
 ``` 
 id: 0118 
 type: isolation 
-primary: hamstrings 
-secondary: calves,quadriceps,glutes 
+primary: ischiocrural muscles 
+secondary: gastrocnemius,soleus,quadriceps,glutaeus maximus 
 equipment: barbell 
 ``` 
 

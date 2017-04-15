@@ -4,8 +4,8 @@
 ``` 
 id: 0102 
 type: isolation 
-primary: lower back 
-secondary: hamstrings 
+primary: erector spinae 
+secondary: ischiocrural muscles 
 equipment: smith machine 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0212 
 type: isolation 
-primary: biceps 
-secondary: forearm,shoulders 
+primary: biceps brachii 
+secondary: forearm,deltoid 
 equipment: cable 
 ``` 
 

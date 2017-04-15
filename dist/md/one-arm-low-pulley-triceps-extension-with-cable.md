@@ -4,7 +4,7 @@
 ``` 
 id: 0199 
 type: compound 
-primary: triceps 
+primary: triceps brachii 
 secondary:  
 equipment: cable 
 ``` 

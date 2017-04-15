@@ -4,8 +4,8 @@
 ``` 
 id: 0007 
 type: isolation 
-primary: shoulders 
-secondary: chest,forerm 
+primary: deltoid 
+secondary: pectoralis major,forerm 
 equipment: barbell 
 ``` 
 

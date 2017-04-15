@@ -4,8 +4,8 @@
 ``` 
 id: 0172 
 type: compound 
-primary: triceps 
-secondary: shoulders,chest 
+primary: triceps brachii 
+secondary: deltoid,pectoralis major 
 equipment: body 
 ``` 
 

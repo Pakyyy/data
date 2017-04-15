@@ -4,7 +4,7 @@
 ``` 
 id: 0116 
 type: isolation 
-primary: hamstrings 
+primary: ischiocrural muscles 
 secondary: quadriceps 
 equipment: flat bench 
 ``` 

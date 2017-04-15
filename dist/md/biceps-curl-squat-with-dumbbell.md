@@ -4,8 +4,8 @@
 ``` 
 id: 0256 
 type: isolation, compound 
-primary: biceps 
-secondary: hamstrings,glutes 
+primary: biceps brachii 
+secondary: ischiocrural muscles,glutaeus maximus 
 equipment: dumbbell 
 ``` 
 

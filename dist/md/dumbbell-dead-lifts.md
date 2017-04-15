@@ -1,11 +1,11 @@
-# Dumbbell Dead Lifts
+# Dead Lifts: Dumbbell
 > This is an exercise for lower back, hamstring and calves strengthening.
 
 ``` 
 id: 0107 
 type: isolation 
-primary: lower back 
-secondary: calves,hamstrings 
+primary: erector spinae 
+secondary: gastrocnemius,soleus,ischiocrural muscles 
 equipment: dumbbells 
 ``` 
 

@@ -4,8 +4,8 @@
 ``` 
 id: 0103 
 type: isolation 
-primary: lower back 
-secondary: hamstrings,core 
+primary: erector spinae 
+secondary: ischiocrural muscles,core 
 equipment: bench: hyperextension 
 ``` 
 
