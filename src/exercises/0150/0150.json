@@ -1,7 +1,7 @@
 {
     "id": "0150",
     "name": "one-arm-side-deadlift-with-barbell",
-    "title": "One Arm Side Deadlift with Barbell",
+    "title": "Dead Lift: Barbell (One Arm Side)",
     "primer": "This is an advanced exercise that works most of the muscles of the body.",
     "type": "compound",
     "primary": [
@@ -9,9 +9,9 @@
     ],
     "secondary": [
         "abdominals",
-        "glutes",
-        "calves",
-        "hamstrings"
+        "glutaeus maximus",
+        "gastrocnemius", "soleus",
+        "ischiocrural muscles"
     ],
     "equipment": [
         "barbell"

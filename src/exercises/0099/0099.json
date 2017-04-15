@@ -1,15 +1,15 @@
 {
     "id": "0099",
     "name": "barbell-dead-lifts",
-    "title": "Barbell Dead Lifts",
+    "title": "Dead Lifts: Barbell",
     "primer": "The techniques is identical to that of the Smith Machine dead lift except for the fact that this exercise provides less support.",
     "type": "isolation",
     "primary": [
-        "lower back"
+        "erector spinae"
     ],
     "secondary": [
-        "hamstrings",
-        "calves"
+        "ischiocrural muscles",
+        "gastrocnemius", "soleus"
     ],
     "equipment": [
         "barbell"

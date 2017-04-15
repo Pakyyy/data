@@ -5,11 +5,11 @@
     "primer": "This version of the biceps curl uses a cable instead of a barbell to work the muscles of the arms.",
     "type": "isolation",
     "primary": [
-        "biceps"
+        "biceps brachii"
     ],
     "secondary": [
         "forearm",
-        "shoulders"
+        "deltoid"
     ],
     "equipment": [
         "cable"

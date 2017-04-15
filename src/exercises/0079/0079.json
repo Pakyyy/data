@@ -5,12 +5,12 @@
     "primer": "This is an exercise for chest and shoulder strengthening which mainly targets the rotator cuff muscles.",
     "type": "isolation",
     "primary": [
-        "chest"
+        "pectoralis major"
     ],
     "secondary": [
-        "triceps",
-        "lats",
-        "shoulders"
+        "triceps brachii",
+        "latissimus dorsi",
+        "deltoid"
     ],
     "equipment": [
         "flat bench",

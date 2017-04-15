@@ -5,10 +5,10 @@
     "primer": "This version of a Bench Press uses a close grip to isolate the triceps as well as working the chest.",
     "type": "compound",
     "primary": [
-        "triceps"
+        "triceps brachii"
     ],
     "secondary": [
-        "chest"
+        "pectoralis major"
     ],
     "equipment": [
         "smith machine"

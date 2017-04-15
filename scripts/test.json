@@ -43,22 +43,18 @@
     ],
     "primary": [
         "abdominals",
-        "belly",
-        "biceps",
-        "calves",
-        "chest",
-        "core",
-        "forearms",
-        "glutes",
-        "hamstrings",
-        "lats",
-        "lower back",
-        "middle back",
+        "biceps brachii",
+        "gastrocnemius",
+        "soleus",
+        "deltoid",
+        "glutaeus maximus",
+        "ischiocrural muscles",
+        "latissimus dorsi",
+        "erector spinae",
         "obliques",
+        "pectoralis major",
         "quadriceps",
-        "shoulders",
         "trapezius",
-        "triceps",
-        "upper back"
+        "triceps brachii"
     ]
 }

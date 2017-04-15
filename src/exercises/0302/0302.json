@@ -3,11 +3,13 @@
     "name": "smith-machine-incline-bench-press",
     "title": "Bench Press: Smith Machine (Incline)",
     "primer": "",
-    "type": "",
+    "type": "isolation",
     "primary": [
-        "chest"
+        "pectoralis major"
     ],
-    "secondary": [],
+    "secondary": [
+        "triceps brachii"
+    ],
     "equipment": [
         "smith machine"
     ],

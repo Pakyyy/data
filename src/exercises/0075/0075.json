@@ -3,11 +3,14 @@
     "name": "push-up-feet-elevated",
     "title": "Push Up with Feet Elevated",
     "primer": "",
-    "type": "",
+    "type": "isolation",
     "primary": [
-        ""
+        "pectoralis major",
+        "deltoid"
     ],
-    "secondary": [],
+    "secondary": [
+        "triceps brachii"
+    ],
     "equipment": [
         "body",
         "bench"

@@ -5,12 +5,12 @@
     "primer": "This is an exercise similar to the regular dead lift and strengthens the hamstring, calves, quadriceps and gluts.",
     "type": "isolation",
     "primary": [
-        "hamstrings"
+        "ischiocrural muscles"
     ],
     "secondary": [
-        "calves",
+        "gastrocnemius", "soleus",
         "quadriceps",
-        "glutes"
+        "glutaeus maximus"
     ],
     "equipment": [
         "barbell"

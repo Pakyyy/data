@@ -6,13 +6,13 @@
     "type": "compound, isolation",
     "primary": [
         "quadriceps",
-        "biceps"
+        "biceps brachii"
     ],
     "secondary": [
         "forearm",
-        "hamstrings",
-        "glutes",
-        "calves",
+        "ischiocrural muscles",
+        "glutaeus maximus",
+        "gastrocnemius", "soleus",
         "hip abductors"
     ],
     "equipment": [

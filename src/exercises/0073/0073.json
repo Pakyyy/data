@@ -5,11 +5,11 @@
     "primer": "These are variations on Push Ups, one of the best exercise for muscles of the chest (pectorals), arms (bicep and triceps) and core development. The core muscles are the rectus abdomen and oblique’s which support the spine.",
     "type": "isolation",
     "primary": [
-        "chest"
+        "pectoralis major"
     ],
     "secondary": [
-        "triceps",
-        "shoulders",
+        "triceps brachii",
+        "deltoid",
         "core"
     ],
     "equipment": [

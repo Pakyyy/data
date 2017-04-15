@@ -5,12 +5,12 @@
     "primer": "This is an exercise for chest, shoulder, lats and biceps strengthening.",
     "type": "isolation",
     "primary": [
-        "chest"
+        "pectoralis major"
     ],
     "secondary": [
-        "shoulders",
-        "triceps",
-        "lats"
+        "deltoid",
+        "triceps brachii",
+        "latissimus dorsi"
     ],
     "equipment": [
         "flat bench",

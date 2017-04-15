@@ -1,15 +1,15 @@
 {
     "id": "0100",
     "name": "smith-machine-dead-lifts",
-    "title": "Smith Machine Dead Lifts",
+    "title": "Dead Lifts: Smith Machine",
     "primer": "This is the same as a Dead Lift but the Smith Machine allows for better control of the weight.",
     "type": "isolation",
     "primary": [
-        "lower back"
+        "erector spinae"
     ],
     "secondary": [
-        "hamstrings",
-        "calves"
+        "ischiocrural muscles",
+        "gastrocnemius", "soleus"
     ],
     "equipment": [
         "smith machine"

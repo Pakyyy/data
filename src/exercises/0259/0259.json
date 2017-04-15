@@ -1,16 +1,16 @@
 {
     "id": "0259",
     "name": "biceps-curl-with-deadlift-with-barbell",
-    "title": "Bicep Curl with Deadlift with Barbell",
+    "title": "Dead Lift: Barbell (Biceps Curl)",
     "primer": "This exercise combines a bicep curl with a deadlift.",
     "type": "isolation",
     "primary": [
-        "biceps"
+        "biceps brachii"
     ],
     "secondary": [
-        "calves",
-        "lower back",
-        "hamstrings"
+        "gastrocnemius", "soleus",
+        "erector spinae",
+        "ischiocrural muscles"
     ],
     "equipment": [
         "barbell"
